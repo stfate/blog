@@ -42,7 +42,7 @@ p {white-space: pre-wrap};
 <div >とらのあなで新作【宴】の予約が開始されています。</div>
 
 <a  href="http://tohoguitar.blog51.fc2.com/" target="_blank">- Forest306 "【東方】戦場のメリー⑨リスマスをソロギターで弾いてみた"</a>
-<div ><script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm9183866"></script><noscript><a href="http://www.nicovideo.jp/watch/sm9183866">【ニコニコ動画】【東方】戦場のメリー⑨リスマスをソロギターで弾いてみた</a></noscript>
+<div >
 先日に引き続き演奏動画公開。"おてんば恋娘"のアレンジです。</div>
 
 <a  href="http://www.xlproject.cc/" target="_blank">- XL Project C77新作【the starry sky】試聴追加</a>

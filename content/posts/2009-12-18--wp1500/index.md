@@ -32,7 +32,7 @@ C77でも頒布されるそうです。</div>
 
 <a  href="http://www.metalfromfinland.com/news/2009-12-18_13:43/todiefor_another_new_demo_song_posted_online" target="_blank">- To/Die/For "Another New Demo Song Posted Online"</a>
 <div ><a href="http://www.myspace.com/tdfrocks">MySpace</a>に新曲"Unknown III"が公開されています。
-<div は名曲。
+<div> は名曲。
 しかしdemo versionだからかもしれませんがヴォーカルの声質がずいぶん変わった気がしますね…
 曲は相変わらず良いんだけど。</div></div>
 

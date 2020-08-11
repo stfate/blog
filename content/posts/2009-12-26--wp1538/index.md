@@ -17,7 +17,7 @@ p {white-space: pre-wrap};
 <div >C77新作【月夜の道化師よ、狂乱に嗤え。】の告知が。
 ドラマ+ヴォーカル曲な構成のCD作品…ということで幻想廃人みたいな感じですかね？
 現在PV公開中。
-<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm9193024"></script><noscript><a href="http://www.nicovideo.jp/watch/sm9193024">【ニコニコ動画】【黒餡】月夜の道化師よ、狂乱に嗤え。【Fragment_s】</a></noscript>
+
 特設サイトは現在制作中のようです。
 <em>12/30 東"A"-72a CLOSED/UNDERGROUND</em>にて頒布。
 

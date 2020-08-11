@@ -46,7 +46,7 @@ C77新作となる3rd【星空の紅蓮鳥】情報公開。
 <em>12/30 東"コ"-38b アテアの仔等</em>にて頒布。</div>
 
 <a  href="http://tohoguitar.blog51.fc2.com/" target="_blank">- Forest306 "妖怪の山を鍵ハモとギターで演奏してみた"</a>
-<div ><script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm9175665"></script><noscript><a href="http://www.nicovideo.jp/watch/sm9175665">【ニコニコ動画】【東方】妖怪の山を鍵ハモとギターで演奏してみた</a></noscript>
+<div >
 【東方阿漕宴】収録"妖怪の山"の演奏動画がニコニコ動画に掲載されています。</div>
 
 <a  href="http://syncarts.jp/" target="_blank">- SYNC.ART'S C77参加情報更新</a>

@@ -14,7 +14,7 @@ p {white-space: pre-wrap};
 </style>
 
 <a  href="http://www.pizuya.com/" target="_blank">- ぴずやの独房 "【PV】また七薙さんがPV作ってくれたよ！【PV】"</a>
-<div ><script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm9211121"></script><noscript><a href="http://www.nicovideo.jp/watch/sm9211121">【ニコニコ動画】【C77】adhoc【東方アレンジ】</a></noscript>
+<div >
 C77新作PV公開．
 <a href="http://blankfield.but.jp/">BLANKFIELD</a>や<a href="http://yuta.dogearstudios.net/ytcd-0001/">Minstrel</a>と合わせて1つのムービーになってるみたいですね．</div>
 

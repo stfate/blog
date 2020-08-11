@@ -26,7 +26,7 @@ MetalありTranceありTechnoありVocalものありな全10曲収録。試聴�
 <div >#05"土の雨" #06"旅の途中"解説掲載。</div>
 
 <a  href="http://www.hosplug.com/blog/" target="_blank">- hosplug "LINK -Full Version- 公開"</a>
-<div ><script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm9024627"></script><noscript><a href="http://www.nicovideo.jp/watch/sm9024627">【ニコニコ動画】【初音ミク】 ＬＩＮＫ -Full Version- 【オリジナル曲】</a></noscript>
+<div >
 ニコニコ動画にて初音ミク曲"LINK"full versionが公開されています。</div>
 
 <a  href="http://amorkana.jp/" target="_blank">- Amor Kana 【RE:】試聴追加</a>

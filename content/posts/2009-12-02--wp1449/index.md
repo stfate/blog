@@ -28,7 +28,7 @@ p {white-space: pre-wrap};
 
 <a  href="http://carolina.web.infoseek.co.jp/" target="_blank">- SOUND FACTORY CAROLINA 新曲"Tearing the Fate"公開</a>
 <div >ニコニコ動画にてオリジナル曲"Tearing the Fate"が公開されています。
-<script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm8975320"></script><noscript><a href="http://www.nicovideo.jp/watch/sm8975320">【ニコニコ動画】【巡音ルカ】Tearing the Fate【オリジナル】</a></noscript></div>
+</div>
 
 <a  href="http://totsu-kuni.net/" target="_blank">- mimei 【虚の蝶の目隠し鬼】特設サイト更新</a>
 <div >"物語・人物"ページが公開されています。</div>
