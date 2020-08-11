@@ -16,7 +16,7 @@ p {white-space: pre-wrap};
 <a  href="http://s-o-h.jp/products/" target="_blank">- SOUTH OF HEAVEN C77新作【東方鋼鉄魔】試聴追加</a>
 <div >【東方鋼鉄魔】全曲の試聴が公開されています。
 あと姫騎士オフライン名義のシングル【RING!DONG!】の情報も公開。
-<div かっけぇ。</div></div>
+<div>かっけぇ。</div></div>
 
 <a  href="http://devileliet.gozaru.jp/" target="_blank">- YAMAGEN'S DEVILELIET C77参加情報掲載</a>
 <div >C77参加作品情報掲載。<a href="http://pm.pizuya.com/pcmm0005/">Pizuya's Cell x MyonMyonの新作</a>と<a href="http://dyinglife.sakura.ne.jp/extream/top.html">えくすとりーむ☆どーじん</a>の2件ですね。

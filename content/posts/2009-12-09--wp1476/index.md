@@ -28,7 +28,7 @@ p {white-space: pre-wrap};
 <div >委託取扱い店舗が更新。</div>
 
 <a  href="http://cobhc.blog40.fc2.com/" target="_blank">- 愛と戦慄の日々 "ラストリモートをアレンジしてみました。"</a>
-<div ><script type="text/javascript" src="http://ext.nicovideo.jp/thumb_watch/sm9036987"></script><noscript><a href="http://www.nicovideo.jp/watch/sm9036987">【ニコニコ動画】【東方自作アレンジ】ラストリモート【C77】</a></noscript>
+<div >
 "ラストリモート"のアレンジがニコニコ動画にて公開されています。
 C77で東方アレンジCDを発表されるようですね。スペースは<em>12.30 東”プ”-11a</em></div>
 
