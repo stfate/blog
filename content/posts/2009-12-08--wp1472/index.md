@@ -1,0 +1,34 @@
+---
+title: "[news] 秋の空 C77新作【星影の天の原】試聴、ショップ委託情報掲載"
+path: "/posts/2009-12-08--wp1472"
+date: "2009-12-08 07:10:51"
+cover: "no-image.png"
+author: "stfate"
+tags: ["ニュース","enfance fini","metal","mintjam","yuiko","三澤秋","大麻葉吸"]
+---
+
+<style type="text/css">
+<!--
+p {white-space: pre-wrap};
+-->
+</style>
+
+<a class="topics" href="http://www.eluveitie.ch/en/?view=news" target="_blank">- Eluveitie "New Design / Double show in Düdingen"</a>
+<div class="news">サイトデザインがnew album仕様に。
+<div id="talk">また良さそうなアートワークですね。アルバム詳細が気になりすぎる。</div></div>
+
+<a class="topics" href="http://anraku.nothing.sh/akisora/" target="_blank">- 秋の空 C77新作【星影の天の原】試聴、ショップ委託情報掲載</a>
+<div class="news"><a href="http://anraku.nothing.sh/akisora/2009amanohara/"><img src="http://anraku.nothing.sh/akisora/2009amanohara/img/bana_l.jpg"></a>
+#01/10/12/13の試聴公開＆ショップ委託取り扱い店舗について掲載。</div>
+
+<a class="topics" href="http://enfini.yu-nagi.com/" target="_blank">- Enfance fini ショップ委託情報など更新</a>
+<div class="news">旧作ショップ委託情報など掲載。</div>
+
+<a class="topics" href="http://www.mintjam.net/mj/index.html" target="_blank">- MintJam カラオケ関連情報更新</a>
+<div class="news">"Thank you" "Bridged to the Sun〈kagutsuchi mix〉"が投票可能になったようです。</div>
+
+<a class="topics" href="http://www.human-bbq.com/" target="_blank">- 大麻葉吸 "義理嘔吐"</a>
+<div class="news">Twitter始められたようです。</div>
+
+<a class="topics" href="http://primary-yuiko.com/" target="_blank">- Primary 参加作品情報更新</a>
+<div class="news"><a href="http://www.solfa.asia/hearttoheart/">solfa【heart to heart ～from iyunaline to solfa2～】</a>に参加されています。</div>
