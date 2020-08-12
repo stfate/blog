@@ -14,13 +14,13 @@ p {white-space: pre-wrap};
 </style>
 
 <a href="http://blankfield.but.jp/bfcd-0002/" target="_blank"><img src="http://blankfield.but.jp/bfcd-0002/image/banner_l.png"  /></a>
-<div ><span >01.Last Remote (東方地霊殿 / ラストリモート)</span>
+01.Last Remote (東方地霊殿 / ラストリモート)
 02.Poison and Medicine (東方花映塚 / ポイズンボディ ～ Forsaken Doll)
 03.Guity People, Innocent Doll (東方妖々夢 / 人形裁判 ～ 人の形弄びし少女)
 04.The Princess Is Dead (東方紅魔郷 / 亡き王女の為のセプテット)
-<span >05.Green Jealous (東方地霊殿 / 緑眼のジェラシー)</span>
+05.Green Jealous (東方地霊殿 / 緑眼のジェラシー)
 06.Half Ghost (東方妖々夢 / 広有射怪鳥事 ～ Till When？)
-<span >07.Far From Truth (東方妖々夢 / アルティメットトゥルース)</span></div>
+07.Far From Truth (東方妖々夢 / アルティメットトゥルース)
 
 <!--more-->
 <p style="margin-top:15px">C77リリース，BLANKFIELDの2ndアルバム．東方メタルアレンジ．
@@ -39,12 +39,12 @@ Blood Stain Child，Mors Principium Estあたりを思い出すサウンドで�
 メロデス寄りのデスラッシュが好きな方は是非．</p>
 
 <p style="margin-top:15px">特に気に入った曲．
-<span >#01 "Last Remote"</span>
+#01 "Last Remote"
 初っ端からテンションMAXで突進するデスラッシュ．
 イントロの導入部～ブラストビートが斬り込んでくるところがカッコ良すぎる．
 
-<span >#05 "Green Jealous"</span>
+#05 "Green Jealous"
 アルバム中唯一のミドルテンポ．妬ましいオーラ全開のダークなリフが素敵．
 
-<span >#07 "Far From Truth"</span>
+#07 "Far From Truth"
 クサメロを撒き散らしながら爆走する，僕のストライクゾーンど真ん中の1曲．ヘドバン推奨．</p>

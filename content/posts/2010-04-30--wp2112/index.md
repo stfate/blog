@@ -13,14 +13,14 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-<div >01 Blind Night Sorrow
+01 Blind Night Sorrow
 02 Kissing the Tears
-<span >03 Imperfect Woman</span>
+03 Imperfect Woman
 04 Ashes to Ashes
 05 Veiled Failed
 06 Noble Vampire
 07 Black Magic Universe
-08 Flame of Sadness</div>
+08 Flame of Sadness
 
 <!--more-->
 2009年12月末リリース，同人メタルサークル<a href="http://pocky.real-sound.net/Thousand_Leaves/" target="_blank">Thousand Leaves</a>の東方メロディック･デス･アレンジ．

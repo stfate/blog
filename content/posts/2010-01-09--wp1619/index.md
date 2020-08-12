@@ -14,17 +14,17 @@ p {white-space: pre-wrap};
 </style>
 
 <a href="http://kurogane-u.s341.xrea.com/krgn0001_sr.html" target="_blank"><img src="http://kurogane-u.s341.xrea.com/krgn0001_srbn400.jpg"  /></a>
-<div >01.Rough Edge
-<span >02.Running to the Straight</span>
+01.Rough Edge
+02.Running to the Straight
 03.Phantom of "NOBUNAGA"
 04.Ontlogy
 05.Ultimate Battle
 06.ハニワ王国アイヤー！
-<span >07.Going On</span>
+07.Going On
 08.戦国嵐世
 09.魔人17倍
 10.All Your Power
-11.Rebirth of the Edge (Taishi Trancestep Remix)</div>
+11.Rebirth of the Edge (Taishi Trancestep Remix)
 
 <!--more-->
 幽玄さんのサークル<a href="http://kurogane-u.s341.xrea.com/">黒鉄館</a>の1stとなるアリスソフト･アレンジアルバム．(C77リリース)
@@ -58,7 +58,7 @@ Shadeさんのファンは勿論のこと，アリスソフトに何らかの思
 
 <p style="margin-top:15px">余談．このアルバムを聴いてるとなぜかAlice Sound Collection(3～5のあたり)が聴きたくなっちゃいますね…w</p>
 
-<p style="margin-top:15px"><div ><em>-Highlight Tune-</em>
-<span >02.Running to the Straight</span>
+<p style="margin-top:15px"><em>-Highlight Tune-</em>
+02.Running to the Straight
 "Going On"は本文で言及したのでこちらで．
-曲名の通り真っ直ぐなメロディ，曲展開が秀逸ですね，この曲は．</div></p>
+曲名の通り真っ直ぐなメロディ，曲展開が秀逸ですね，この曲は．</p>

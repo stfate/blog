@@ -14,17 +14,17 @@ p {white-space: pre-wrap};
 </style>
 
 <a href="http://stfate.net/wp-content/uploads/2010/01/P2010_0124_114239.jpg" target="_blank"><img src="http://stfate.net/wp-content/uploads/2010/01/purepollution5th.jpg" alt="" /></a>
-<div >
+
 01.Other Side/Another Day 
-<span >02.Stand Asleep </span>
+02.Stand Asleep 
 03.Endless You 
 04.Eastern Night 
-<span >05.A Fluorite</span> 
+05.A Fluorite 
 06.Falling 
-<span >07.In The Name Of Alice</span> 
+07.In The Name Of Alice 
 08.Moments 
-<span >09.Sleepless Night</span> 
-10.Morning Disappear</div>
+09.Sleepless Night 
+10.Morning Disappear
 
 <!--more-->
 <p style="margin-top:15px">ミナセイツキさんのサークル<a href="http://www.snv.jp/" target="_blank">PURE-POLLUTION</a>のC77新作．東方アレンジ．
@@ -39,23 +39,23 @@ p {white-space: pre-wrap};
 <p style="margin-top:15px">あとワリとどうでもいい話ですが，アルバム･タイトルがDark The Sunsの某曲と同じなのも個人的にポイント高い(何</p>
 
 <p style="margin-top:15px">気に入った曲．
-<span >#02 Stand Asleep</span>
+#02 Stand Asleep
 ワリと長めの重厚なイントロから続くキラー･チューン．
 疾走感のあるビートに閉塞感ゆえの儚さを持ったメロが乗る．美しい．
 digitalな質感のベースも曲に重苦しさを加えていて良いですね．</p>
 
 <p style="margin-top:15px">
-<span >#05 A Fluorite</span>
+#05 A Fluorite
 アルバムで最も好きな曲．
 スローな暗鬱サウンドですが，中盤(01:59～)のキーボードが美しすぎる！
 「至高」とか「筆舌に尽くし難い美しさ」という表現を使ってしまいたいレベルです．
 この部分を聴きたいがために何度もリピートしてしまう，そのくらい気に入ってしまいました．
 これは名アレンジだなぁ．</p>
 
-<p style="margin-top:15px"><span >#07 In The Name Of Alice</span>
+<p style="margin-top:15px">#07 In The Name Of Alice
 これもKeyが泣ける．曲の重苦しい質感がアルバムが終盤へ向かっていくのを感じさせますね．</p>
 
-<p style="margin-top:15px"><span >#09 Sleepless Night</span>
+<p style="margin-top:15px">#09 Sleepless Night
 タイトル曲に相応しい名バラード．
 儚さと哀しみが至上の美しさを生む…このスタイルの音楽はそこが最大の魅力だと思っています．</p>
 

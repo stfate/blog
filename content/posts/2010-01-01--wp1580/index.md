@@ -16,22 +16,22 @@ p {white-space: pre-wrap};
 この時期の恒例を…ということで2009年ベスト･アルバムTop10でも．
 とりあえずタイトルのみ列挙します．コメントは後ほど追記ということで．
 
-<span >01."ピアノと弦楽器の生演奏による「セブンスドラゴン」スーパー･アレンジ･バージョン"</span>
+01."ピアノと弦楽器の生演奏による「セブンスドラゴン」スーパー･アレンジ･バージョン"
 
-<span >02.Swallow the Sun - "New Moon"</span>
+02.Swallow the Sun - "New Moon"
 
-<span >03.Disarmonia Mundi - "The Isolation Game"</span>
+03.Disarmonia Mundi - "The Isolation Game"
 
-<span >04.Dark the Suns - "All Ends In Silence"</span>
+04.Dark the Suns - "All Ends In Silence"
 
-<span >05.Pizuya's Cell x MyonMyon "Nuclear Blast"</span>
+05.Pizuya's Cell x MyonMyon "Nuclear Blast"
 
-<span >06.k-waves LAB - "風萃めのシャルモ"</span>
+06.k-waves LAB - "風萃めのシャルモ"
 
-<span >07.Asriel - "unveil"</span>
+07.Asriel - "unveil"
 
-<span >08.Riverside - "Anno Domini High Definition"</span>
+08.Riverside - "Anno Domini High Definition"
 
-<span >09.SOUTH OF HEAVEN - "東方鋼鉄劇"</span>
+09.SOUTH OF HEAVEN - "東方鋼鉄劇"
 
-<span >10.Levo Lution - "Skyrise"</span>
+10.Levo Lution - "Skyrise"

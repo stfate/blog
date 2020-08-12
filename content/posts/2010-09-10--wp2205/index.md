@@ -14,13 +14,13 @@ p {white-space: pre-wrap};
 </style>
 
 <a href="http://stfate.net/wp-content/uploads/2010/08/zephyrDV.jpg"><img src="http://stfate.net/wp-content/uploads/2010/08/zephyrDV-300x225.jpg" alt="" title="zephyrDV" width="300" height="225" class="alignnone size-medium wp-image-2193" /></a>
-<div class="tracklist">01. Gentle Jena -はじまりのおと-
+01. Gentle Jena -はじまりのおと-
 02. My Soul, Your Beats! -Zephyr Violin Edition-
-<span class="red">03. 新しき世界 -Unison of the Violization-</span>
+03. 新しき世界 -Unison of the Violization-
 04. 風を待った日 -little wish-
-<span class="red">05. 時の回廊 -summer horizon-</span>
+05. 時の回廊 -summer horizon-
 06. angel's night -祭りの後-
-07. 風の辿り着く場所 -day after tomorrow-</div>
+07. 風の辿り着く場所 -day after tomorrow-
 
 <!--more-->
 <p style="margin-top:15px">C78頒布，大臣さんのサークル<a href="http://www.zephyr-cradle.info/">Zephyr Cradle</a>のM3頒布作品【Zephyr Violin】に続くアルバム．
@@ -38,51 +38,51 @@ p {white-space: pre-wrap};
 なのでとても聴きやすいし，聴いてて爽快感を得られる1枚になってます．</p>
 
 <p style="margin-top:15px">さてここからは1曲1曲に触れてみます．
-<span class="topics">01. Gentle Jena -はじまりのおと-</span><br>
-<div class="news">planetarianより．
-原曲を知らないのですが，まさにプラネタリウムの空間のような広がりを感じさせる音像がいいですねー．</div>
+01. Gentle Jena -はじまりのおと-<br>
+planetarianより．
+原曲を知らないのですが，まさにプラネタリウムの空間のような広がりを感じさせる音像がいいですねー．
 
-<span class="topics">02. My Soul, Your Beats! -Zephyr Violin Edition-</span><br>
-<div class="news">特設サイト公開後もwebラジオの日まで曲名が公開されず，シークレット扱いされていたボス曲．
+02. My Soul, Your Beats! -Zephyr Violin Edition-<br>
+特設サイト公開後もwebラジオの日まで曲名が公開されず，シークレット扱いされていたボス曲．
 Angel Beats!のOPテーマですが，不勉強ながらこの曲もこちらのアレンジで聴くまで原曲を聴いてなかったです．
 webラジオで聴いた時にヴァイオリンで奏でられる「いかにもKey」な流れるようなメロディにKOされてしまい
 5分後にはAmazonでシングルをポチってました．
 今では原曲もすっかり大好きです．
 優しさと物悲しさが同居したメロディとサビで力強さや決意を感じさせる曲展開がいかにもKeyですよね．
-前作のメグメルを聴いた時も思いましたが，Key楽曲のメロディはヴァイオリンだと殺傷力が増す気がします．</div>
+前作のメグメルを聴いた時も思いましたが，Key楽曲のメロディはヴァイオリンだと殺傷力が増す気がします．
 
-<span class="topics">03. 新しき世界 -Unison of the Violization-</span><br>
-<div class="news">【Bifrost】収録曲．(もう5年前になるんですね…)
+03. 新しき世界 -Unison of the Violization-<br>
+【Bifrost】収録曲．(もう5年前になるんですね…)
 Bifrostの中でも銀の意志アレンジと並んで好きな曲でしたが，ヴァイオリンが入ることでさらに強力な曲になった印象．
 この壮麗でありながらどこか寂しさを持ったメロディが大好き．
-久々に第3世界を飛空艇で翔けたくなります．</div>
+久々に第3世界を飛空艇で翔けたくなります．
 
-<span class="topics">04. 風を待った日 -little wish-</span><br>
-<div class="news">Kanonの名曲．個人的にはKanonで最も好きな曲です．
+04. 風を待った日 -little wish-<br>
+Kanonの名曲．個人的にはKanonで最も好きな曲です．
 ほぼ原曲準拠ですが，曲後半で炸裂する<em>リバーブスネア</em>が最も特筆すべき点でしょう…！
 Kanonといえばこのリバーブかけまくりの深い残響のスネア．そのくらい深く記憶に刻まれている音です．
-ヴァイオリンで奏でられるメロディも素敵で，あの雪の街の光景が浮かびます．</div>
+ヴァイオリンで奏でられるメロディも素敵で，あの雪の街の光景が浮かびます．
 
-<span class="topics">05. 時の回廊 -summer horizon-</span><br>
-<div class="news">M03,04と僕の大好きな曲がきて，さらにトドメに神曲登場．
+05. 時の回廊 -summer horizon-<br>
+M03,04と僕の大好きな曲がきて，さらにトドメに神曲登場．
 原曲が死ぬるほど好きなわけですが，この曲をヴァイオリンで聴けるとか最高ですよ…！
 ホント反則級のメロディだよなぁ．泣くしかない．
 バッキングでほぼ全編流れているRealGuitar2Lもいい味出しております．
 ウインドチャイムの音と合わせて今作中でも特に夏空らしい爽やかさがありますね．
-原曲も空を思い起こさせると思いますが，それに夏っぽさがうまくミックスされた感じでしょうか．</div>
+原曲も空を思い起こさせると思いますが，それに夏っぽさがうまくミックスされた感じでしょうか．
 
-<span class="topics">06. angel's night -祭りの後-</span><br>
-<div class="news">聖剣伝説2より"天使の怖れ" "予感"のアレンジ．
+06. angel's night -祭りの後-<br>
+聖剣伝説2より"天使の怖れ" "予感"のアレンジ．
 サントラを持ってないのもあって実は原曲があまり記憶に残ってなかったりするんですが，
 これもなかなか素敵．
 前半と後半で変わる曲調が聴きどころですね．
-特に後半の疾走パートはテンション上がります．裏打ちは正義(違</div>
+特に後半の疾走パートはテンション上がります．裏打ちは正義(違
 
-<span class="topics">07. 風の辿り着く場所 -day after tomorrow-</span><br>
-<div class="news">言わずと知れたKanonのEDテーマ．
+07. 風の辿り着く場所 -day after tomorrow-<br>
+言わずと知れたKanonのEDテーマ．
 原曲はわりとダンスポップ系のリズムの曲ですが，ヴァイオリンとピアノ主体のゆったりとしたアレンジに．
 こういうアレンジだとメロディの良さがより映えますねー．
-ゆったり聴き入っているうちにアルバムは幕を閉じます．<del datetime="2010-09-10T12:15:22+00:00">そしてリピートへ…</del></div></p>
+ゆったり聴き入っているうちにアルバムは幕を閉じます．<del datetime="2010-09-10T12:15:22+00:00">そしてリピートへ…</del></p>
 
 <p style="margin-top:15px">前作に続き選曲とアレンジの両面でとても気に入ってしまったアルバムです．
 特にM03～05の流れは反則．</p>

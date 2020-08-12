@@ -14,12 +14,12 @@ p {white-space: pre-wrap};
 </style>
 
 <img src="http://stfate.net/wp-content/uploads/2010/05/DSC_0010-300x225.jpg" alt="" title="DSC_0010" width="300" height="225" class="alignnone size-medium wp-image-2143" />
-<div >01. 冬の花火 -illumination-
+01. 冬の花火 -illumination-
 02. メグメル -Celestial Snow-
-<span >03. 風の憧憬 -Like Walking...-</span>
-<span >04. 雪灯りの森へ</span>
+03. 風の憧憬 -Like Walking...-
+04. 雪灯りの森へ
 05. 鮮血の狂詩曲 -Dancing Dagger-
-<span >06. 優しき雪の果て</span></div>
+06. 優しき雪の果て
 
 <!--more-->
 <p style="margin-top:15px">大臣さんのサークル<a href="http://www.zephyr-cradle.info/" target="_blank">Zephyr Cradle</a>のCD作品としては【Bifrost】以来となる約4年ぶりの新作．
@@ -37,30 +37,30 @@ TAMさんのヴァイオリンをフィーチュアした新録，再録，リ�
 通して聴く上で良いアクセントになっていて聴いてて飽きないですね．</p>
 
 <p style="margin-top:15px">ここからは1曲ずつインプレ的なものを書いてみます．
-<span >01. 冬の花火 -illumination-</span>
+01. 冬の花火 -illumination-
 いかにも1曲目，な予兆を感じさせるイントロからピアノ，続いてヴァイオリンが入ってきて次第に音が厚みを増していくのが良いですね．</p>
 
-<p style="margin-top:15px"><span >02. メグメル -Celestial Snow-</span>
+<p style="margin-top:15px">02. メグメル -Celestial Snow-
 原曲は春な感じの曲ですが，ヴァイオリンメインになるとここまで冬の雰囲気になるのか…と驚きました．
 豊かな弦の音で原曲のメロディの良さがより活きてますね．
 あと風の音で冬の息遣いがより強調されているように思います．</p>
 
-<p style="margin-top:15px"><span >03. 風の憧憬 -Like Walking...-</span>
+<p style="margin-top:15px">03. 風の憧憬 -Like Walking...-
 今作中最も気に入った曲．
 原曲も"曲名を見ただけでテンションが上がる"くらいに好きなんですが，ヴァイオリン，フルートで優しい旋律を紡いでいくのがすごく良い．
 木漏れ日の差す優しい森にいるかのような感覚を味わえる．
 欲を言えばギターも生だったら完璧なのに…とか思ってしまいますが，それを抜きにしても素敵すぎるアレンジです．</p>
 
-<p style="margin-top:15px"><span >04. 雪灯りの森へ</span>
+<p style="margin-top:15px">04. 雪灯りの森へ
 原曲未聴ですが，雪の街の趣な静謐で優しい雰囲気がツボです．
 "風の憧憬"ほど目立ってはいませんが，要所要所で聴かれるフルートの音がいいですね．</p>
 
-<p style="margin-top:15px"><span >05. 鮮血の狂詩曲 -Dancing Dagger-</span>
+<p style="margin-top:15px">05. 鮮血の狂詩曲 -Dancing Dagger-
 FF6の名曲をピアノ&弦でテンション高くアレンジ．
 この曲のアレンジというとメタル･アレンジが多かったと思いますが，メタルとは違ったベクトルの熱さが素敵です．
 パーカッションの手数の多さが激しさを強調してて良いです．
 
-<p style="margin-top:15px"><span >06. 優しき雪の果て</span>
+<p style="margin-top:15px">06. 優しき雪の果て
 同じ冬系でも" 雪灯りの森へ"に比べてこちらは寂しさが前面に出てる感じですね．
 咽び泣くヴァイオリンが作る物悲しい雰囲気．こういうの大好物です．
 あまりの美しさに聴き終わった後に思わず溜息が出る…</p>

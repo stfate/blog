@@ -14,7 +14,7 @@ p {white-space: pre-wrap};
 </style>
 
 <img src="http://stfate.net/wp-content/uploads/2010/05/2010-05-23-17.00.51-300x225.jpg" alt="" title="2010-05-23 17.00.51" width="300" height="225" class="alignnone size-medium wp-image-2141" />
-<div >01. 風の理
+01. 風の理
 02. 瑠璃の鳥
 03. Everywhere With You
 04. 想いのカナタ
@@ -22,13 +22,13 @@ p {white-space: pre-wrap};
 06. Snowdrop
 07. Blade of Tears
 08. 星の夢～Gathering the stars of love～
-<span >09. 楽園の鍵</span>
+09. 楽園の鍵
 10. COSMOLAGOON
 11. たびだちのうた
 12. 永遠
 13. so happy days
-<span >14. 眠りの果ての蒼い花</span>
-15. 導きのハーモニー</div>
+14. 眠りの果ての蒼い花
+15. 導きのハーモニー
 
 <!--more-->
 <p style="margin-top:15px">霜月はるかさんのワークスベスト3rd．(<a href="http://www.team-e.co.jp/sp/harmony/" target="_blank">特設ページはこちら</a>)
@@ -55,9 +55,9 @@ p {white-space: pre-wrap};
 同人活動休止の件といい一抹の不安を感じてしまいますが，今後の作品でこの不安を吹き飛ばしてくれることを期待します．</p>
 
 <p style="margin-top:15px">気に入った曲．
-<span >M09 "楽園の鍵"</span>
+M09 "楽園の鍵"
 イントロのコーラスワーク～必殺の生弦炸裂は悶絶必至．</p>
 
-<p style="margin-top:15px"><span >M14 "眠りの果ての蒼い花"</span>
+<p style="margin-top:15px">M14 "眠りの果ての蒼い花"
 まさにtieLeaf節な薄暗さと壮麗さが素敵．
 特にサビの盛り上げ方，大好き．</p>
