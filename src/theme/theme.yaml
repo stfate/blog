@@ -110,8 +110,8 @@ background:
 text:
   family: *font-family-target
   color:
-    primary: *color-gray-10
-    primaryInverse: *color-white
+    primary: *color-white
+    primaryInverse: *color-gray-10
     brand: *color-brand-primary
     attention: *color-special-attention
   lineHeight:
