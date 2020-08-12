@@ -36,7 +36,6 @@ C77で東方アレンジCDを発表されるようですね。スペースは<em
 C77新作【<a href="http://www.human-bbq.com/justiceman.html">鉄人ストロンガー</a>】の残りの試聴とクロスフェード･デモが公開されています。
 
 <a  href="http://www5.ocn.ne.jp/~rulotami/" target="_blank">- 流浪の民 C77新作情報など掲載</a>
-<a href="http://www.kurokawaan.com/attic/tamahime/">
 C77新作【対の姫君　やさかたまひめものがたり】特設ページオープン。
 eme*R/流浪の民/黒川庵 3サークル合同のボイスドラマ/ヴォーカル曲な作品のようです。
 <em>12.30 東"コ"-33a 流浪の民</em>にて頒布。

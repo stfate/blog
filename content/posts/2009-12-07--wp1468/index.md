@@ -14,7 +14,6 @@ p {white-space: pre-wrap};
 </style>
 
 <a  href="http://mono-coat.com/1st.html" target="_blank">- monochrome-coat C77新作【Euphorbia】情報公開</a>
-<a href="http://mono-coat.com/1st.html">
 1stとなる東方アレンジ･アルバム【Euphorbia】情報公開。
 MetalありTranceありTechnoありVocalものありな全10曲収録。試聴公開中。
 頒布スペースは<em>12.30 東"プ"-19b</em>

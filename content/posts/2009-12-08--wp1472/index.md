@@ -18,7 +18,6 @@ p {white-space: pre-wrap};
 また良さそうなアートワークですね。アルバム詳細が気になりすぎる。
 
 <a  href="http://anraku.nothing.sh/akisora/" target="_blank">- 秋の空 C77新作【星影の天の原】試聴、ショップ委託情報掲載</a>
-<a href="http://anraku.nothing.sh/akisora/2009amanohara/">
 #01/10/12/13の試聴公開＆ショップ委託取り扱い店舗について掲載。
 
 <a  href="http://enfini.yu-nagi.com/" target="_blank">- Enfance fini ショップ委託情報など更新</a>
