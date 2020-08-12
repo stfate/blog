@@ -154,6 +154,7 @@ class Menu extends React.Component {
           .menu {
             align-items: center;
             background: ${theme.color.neutral.white};
+            color: ${theme.header.text.color};
             top: 0;
             display: flex;
             flex-grow: 1;
