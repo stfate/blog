@@ -110,7 +110,7 @@ background:
 text:
   family: *font-family-target
   color:
-    primary: *color-white
+    primary: *color-gray-10
     primaryInverse: *color-white
     brand: *color-brand-primary
     attention: *color-special-attention
@@ -150,6 +150,8 @@ blog:
     lineHeight: *font-line-height-xs
     hoverColor: *color-gray-10
 header:
+  text:
+    color: *color-white;
   height:
     default: 50px
     fixed: 50px;
