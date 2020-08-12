@@ -20,7 +20,6 @@ p {white-space: pre-wrap};
 あれを超えるような作品をぜひ商業でやってほしいですね。
 
 <a  href="http://www.radio-mnc.net/KNTS-0003/" target="_blank">- Knights of Round C77新作【KNIGHTS OF ROUND III】情報公開</a>
-<a href="http://www.radio-mnc.net/KNTS-0003/">
 C77新作【Knights of Round III】情報公開。
 東方アレンジ、全13曲収録。現在全曲の試聴公開中。
 頒布スペースは<em>12.30 東"ク"-30ab「Aether&SWORD OF JUSTICE」</em>
