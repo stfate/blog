@@ -13,21 +13,21 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-<a  href="http://www.eluveitie.ch/en/?view=news" target="_blank">- Eluveitie "New Design / Double show in Düdingen"</a>
+- Eluveitie "New Design / Double show in Düdingen"
 サイトデザインがnew album仕様に。
 また良さそうなアートワークですね。アルバム詳細が気になりすぎる。
 
-<a  href="http://anraku.nothing.sh/akisora/" target="_blank">- 秋の空 C77新作【星影の天の原】試聴、ショップ委託情報掲載</a>
+- 秋の空 C77新作【星影の天の原】試聴、ショップ委託情報掲載
 #01/10/12/13の試聴公開＆ショップ委託取り扱い店舗について掲載。
 
-<a  href="http://enfini.yu-nagi.com/" target="_blank">- Enfance fini ショップ委託情報など更新</a>
+- Enfance fini ショップ委託情報など更新
 旧作ショップ委託情報など掲載。
 
-<a  href="http://www.mintjam.net/mj/index.html" target="_blank">- MintJam カラオケ関連情報更新</a>
+- MintJam カラオケ関連情報更新
 "Thank you" "Bridged to the Sun〈kagutsuchi mix〉"が投票可能になったようです。
 
-<a  href="http://www.human-bbq.com/" target="_blank">- 大麻葉吸 "義理嘔吐"</a>
+- 大麻葉吸 "義理嘔吐"
 Twitter始められたようです。
 
-<a  href="http://primary-yuiko.com/" target="_blank">- Primary 参加作品情報更新</a>
-<a href="http://www.solfa.asia/hearttoheart/">solfa【heart to heart ～from iyunaline to solfa2～】</a>に参加されています。
+- Primary 参加作品情報更新
+solfa【heart to heart ～from iyunaline to solfa2～】に参加されています。

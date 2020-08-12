@@ -13,16 +13,16 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-<a  href="http://shimotsukin.com/" target="_blank">- Maple Leaf "同人活動休止のお知らせ"掲載</a>
+
 タイトルがほぼ全てですが、冬コミをもってMaple Leaf,tieLeafとしての同人活動を休止されるそうです。
-詳細はMaple Leafオフィシャルや<a href="http://tieleaf.net/">tieLeaf</a>、<a href="http://eleol.net/">eleoL</a>さんを参照。
+詳細はMaple Leafオフィシャルやさんを参照。
 ついに来ちゃいましたか…ただ確かにここ数年同人でのリリースペースはかなり下がってましたし
 商業でも似たようなことができるならラインを一元化するのは良いかもしれませんけどね。
 ただ残念という気持ちはどうしても持ってしまいますね…
 この際言ってしまいますが、同人ラインの方に好きな曲が多いので余計にそう感じます。
 個人的にはtieLeaf(に相当するプロジェクト)の今後が気になりますね…何らかの形で続けて欲しいと切に願います。
 
-<a  href="http://blog.snowblanc.net/" target="_blank">- SnowBlanc "「LEGEND of CHUSEN ORIGINAL IMAGE SONGS」参加情報"</a>
+
 RPG「LEGEND of CHUSEN -誅仙-」のイメージソングアルバムに参加されているそうです。
 アルバムは1.4リリース、C77 ツーファイブレコードさんのブースにて先行販売。
 霜月はるかさん、茶太さん、癒月さん、Ritaさんも参加されているみたいですね。ちょっと気になる。
