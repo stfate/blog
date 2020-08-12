@@ -30,5 +30,5 @@ MetalありTranceありTechnoありVocalものありな全10曲収録。試聴�
 ニコニコ動画にて初音ミク曲"LINK"full versionが公開されています。
 
 <a  href="http://amorkana.jp/" target="_blank">- Amor Kana 【RE:】試聴追加</a>
-<a href="http://re.amorkana.jp/">
+
 #18"Neve Di Vita"の試聴が公開されています。
