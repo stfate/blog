@@ -67,7 +67,7 @@ class Header extends React.Component {
             align-items: center;
             justify-content: center;
             background-color: ${theme.color.neutral.white};
-            background-image: ${bgimage};
+            background-image: url(${bgimage});
             display: flex;
             height: ${theme.header.height.default};
             position: relative;
