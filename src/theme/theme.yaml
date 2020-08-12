@@ -150,7 +150,6 @@ blog:
     lineHeight: *font-line-height-xs
     hoverColor: *color-gray-10
 header:
-  background: 'linear-gradient(0deg, #E0306E, #6438B5)'
   height:
     default: 50px
     fixed: 50px;
