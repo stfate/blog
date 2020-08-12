@@ -8,6 +8,7 @@ import config from "../../../content/meta/config";
 import Menu from "../Menu";
 
 import avatar from "../../images/jpg/avatar.jpg";
+import bgimage from "../../images/jpg/header.png";
 
 class Header extends React.Component {
   state = {
@@ -66,6 +67,7 @@ class Header extends React.Component {
             align-items: center;
             justify-content: center;
             background-color: ${theme.color.neutral.white};
+            background-image: ${bgimage};
             display: flex;
             height: ${theme.header.height.default};
             position: relative;
