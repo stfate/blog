@@ -18,7 +18,7 @@ p {white-space: pre-wrap};
 詳細は未告知ですが、新作ありの模様。
 
 <a  href="http://www.asriel.jp/m/" target="_blank">- Asriel C77新作【DevilsLullaby】特設ページオープン</a>
-<a href="http://www.asriel.jp/m/dev/index.html"><img src="http://www.asriel.jp/m/dev/images/bana-L.jpg" alt="" /></a>
+<a href="http://www.asriel.jp/m/dev/index.html">
 C77新作シングル【DevilsLullaby】情報公開。
 全3曲収録、各トラックの試聴がmp3＆YouTube公開中。
 <em>12/30 東"コ"-30b</em>にて頒布。
@@ -36,5 +36,5 @@ N-toneさんの新作【<a href="http://www7a.biglobe.ne.jp/~n-tone/product/FLOW
 全トラックの試聴とクロスフェード･デモが<a href="http://anraku.nothing.sh/akisora/2009amanohara/">アルバム特設ページ</a>にて公開されています。
 
 <a  href="http://www.gungni.com/" target="_blank">- Gungnir over rev 【渇望の闇皇】バナーキャンペーン告知</a>
-<a href="http://www.gungni.com/katsuboh/"><img src="http://www.gungni.com/img/banner/katsuboh03.jpg" width="468" height="60" border="0" /></a>
+<a href="http://www.gungni.com/katsuboh/">
 C77新作バナーキャンペーンを行うそうです。詳しくは<a href="http://www.gungni.com/katsuboh/campaign/clipmail.html">こちら</a>よりどうぞ。

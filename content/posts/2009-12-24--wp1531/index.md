@@ -29,18 +29,18 @@ DVDもコンサートから3ヶ月でリリースとかなり早いですね。
 特にティンダーリア全曲再現はもう一度観たいくらいに良かったので買ってしまいそうです。
 
 <a  href="http://aonokioku.sakura.ne.jp/setsugetsu/" target="_blank">- 雪月 C77新作ゲーム「SkyScape」特設ページオープン</a>
-<a href="http://aonokioku.sakura.ne.jp/Skyscape/"><img src="http://aonokioku.sakura.ne.jp/Skyscape/Skyscape.png" alt="" /></a>
+<a href="http://aonokioku.sakura.ne.jp/Skyscape/">
 C77新作特設ページオープン。
 製品情報に収録楽曲が掲載されています。
 
 <a  href="http://www.shinsekai.co.uk/fragile/" target="_blank">- Fragile Online C77新作ゲーム「ReCycle　-リサイクル-　(C77β版)」情報公開</a>
-<a href="http://www.shinsekai.co.uk/fragile/"><img src="http://www.shinsekai.co.uk/fragile/images/recycle.jpg" alt="" /></a>
+<a href="http://www.shinsekai.co.uk/fragile/">
 C77新作RPG「ReCycle　-リサイクル-　(C77β版)」の情報公開。RPGツクール製レトロ感溢れまくりなRPGのようです。
 BGMの試聴がNSF，MMLで公開中。
 モンスターデザインのスタッフおかしいwwwww
 
 <a  href="http://atea.main.jp/phoenicia/index.html" target="_blank">- アテアの仔等 C77新作【星空の紅蓮鳥】特設ページオープン</a>
-<a href="http://atea.main.jp/phoenicia/index.html"><img src="http://atea.main.jp/phoenicia/banner.jpg" alt="" /></a>
+<a href="http://atea.main.jp/phoenicia/index.html">
 C77新作となる3rd【星空の紅蓮鳥】情報公開。
 全6曲収録、試聴はまだ公開されていないようです。
 <em>12/30 東"コ"-38b アテアの仔等</em>にて頒布。

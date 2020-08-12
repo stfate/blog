@@ -14,8 +14,8 @@ p {white-space: pre-wrap};
 </style>
 
 <a  href="http://www.pizuya.com/" target="_blank">- ぴずやの独房 C77新作【Resurrection Ballad】【Bibamus, moriendum est.】情報公開</a>
-<a href="http://www.pizuya.com/pm/pcmm0005/index.html"><img src="http://pm.pizuya.com/pcmm0005/img/banner468x95.jpg" alt="" /></a>
-<a href="http://www.pizuya.com/pppp-0000/c77.html"><img src="http://www.pizuya.com/pppp-0000/c77bn_01.jpg" alt="" /></a>
+<a href="http://www.pizuya.com/pm/pcmm0005/index.html">
+<a href="http://www.pizuya.com/pppp-0000/c77.html">
 C77新作2点情報公開。
 Pizuya's Cell x MyonMyon名義の【Resurrection Ballad】はあの【The Grimoire Of Alice】のフルヴォーカルリアレンジ作。
 ぴずやの独房名義の【Bibamus, moriendum est.】は前作に続きピアノアレンジCD。
@@ -26,13 +26,13 @@ Pizuya's Cell x MyonMyon名義の【Resurrection Ballad】はあの【The Grimoi
 【Bibamus, moriendum est.】の方も楽しみですね。前作も良かったですし。
 
 <a  href="http://blankfield.but.jp/bfcd-0002/" target="_blank">- BLANKFIELD C77新作【Fast Forward To End Of East】特設ページオープン</a>
-<a href="http://blankfield.but.jp/bfcd-0002/"><img src="http://blankfield.but.jp/bfcd-0002/image/banner_l.png" alt="" /></a>
+<a href="http://blankfield.but.jp/bfcd-0002/">
 C77新作【Fast Forward To End Of East】情報公開。
 東方アレンジ、全7曲収録。各トラックの試聴＆クロスフェード･デモ公開中。
 こっちもかなり好みな感じです。リフカッコよすぎ。
 
 <a  href="http://clock-music.net/watashiirono_ryuusen/" target="_blank">- CLOCK MUSIC C77新作【私色の流線】特設ページオープン</a>
-<a href="http://clock-music.net/watashiirono_ryuusen/"><img src="http://clock-music.net/watashiirono_ryuusen/images/b40080.jpg" alt="" /></a>
+<a href="http://clock-music.net/watashiirono_ryuusen/">
 C77新作【私色の流】情報公開。
 今回も中原涼さんをヴォーカルに迎えた作品、PVや試聴が公開中。
 <em>東"サ"ｰ01a</em>にて頒布。

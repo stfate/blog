@@ -14,7 +14,7 @@ p {white-space: pre-wrap};
 </style>
 
 <a  href="http://oi.crowsclaw.info/" target="_blank">- CROW'SCLAW C77新作【Original Intention】【Original Intention Plus】特設ページオープン</a>
-<a href="http://oi.crowsclaw.info/"><img src="http://oi.crowsclaw.info/banner46895.jpg" alt="" /></a>
+<a href="http://oi.crowsclaw.info/">
 C77新作【Original Intention】【Original Intention Plus】情報公開。
 2枚でこれまで発表された総てのアルバムをカバーしたベスト･アルバム。
 1st,3rdの曲を集めたPlusはC77会場特典という扱いになるようです。
@@ -30,7 +30,7 @@ Aliesonさんが新作なしって珍しい気がしますが、フリーペー�
 <a href="http://alieson.jugem.jp/">Blogの方にちょっとした補足説明が。</a>
 
 <a  href="http://chata.moo.jp/uk6/index.html" target="_blank">- 茶太屋 C77新作【Kaleidoscope】情報公開</a>
-<a href="http://chata.moo.jp/uk6/index.html"><img src="http://chata.moo.jp/uk6/img/ban/chanebn3.gif" alt="" /></a>
+<a href="http://chata.moo.jp/uk6/index.html">
 C77新作【Kaleidoscope】特設ページオープン。
 全11曲収録の"真面目にネタするフルアルバム"。試聴はまだみたいですね。
 <em>12/30 東"A"-71b ウサギキノコ</em>での頒布。
@@ -46,7 +46,7 @@ wktk
 先日の"ラストリモート"の演奏動画が公開されています。
 
 <a  href="http://www.xlproject.cc/" target="_blank">- XL Project C77新作【the starry sky】情報公開</a>
-<a href="http://www.xlproject.cc/"><img src="http://www.xlproject.cc/images/bn.png" alt="" /></a>
+<a href="http://www.xlproject.cc/">
 C77新作【the starry sky】情報公開。
 東方星蓮船中心のアレンジ、全8曲収録。
 <em>12/30 東"ネ"-37a</em>での頒布。

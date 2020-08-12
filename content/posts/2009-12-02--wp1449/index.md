@@ -34,7 +34,7 @@ p {white-space: pre-wrap};
 "物語・人物"ページが公開されています。
 
 <a  href="http://www.shinsekai.co.uk/fragile/" target="_blank">- Fragile Online C77参加告知</a>
-<a href="http://www.shinsekai.co.uk/fragile/Jo.html"><img src="http://www.shinsekai.co.uk/fragile/images/Jo_Banner400.jpg"></a>
+<a href="http://www.shinsekai.co.uk/fragile/Jo.html">
 <a href="http://www.shinsekai.co.uk/fragile/2nd_remaster.html"></a>
 スペース：<em>12.30 東"Z"-19b FragileOnline</em>
 新作としてCD2枚予定。

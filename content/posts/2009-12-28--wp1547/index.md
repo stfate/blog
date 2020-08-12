@@ -42,7 +42,7 @@ C77当日の頒布物リストが掲載されています．
 C77当日の頒布物リスト，特典情報などが掲載．
 
 <a  href="http://resonare.daynight.jp/resonance/" target="_blank">- Re:sonare C77新作【RESONANCE】特設ページオープン</a>
-<a href="http://resonare.daynight.jp/resonance/"><img src="http://resonare.daynight.jp/resonance/rbanner02.jpg" alt="" /></a>
+<a href="http://resonare.daynight.jp/resonance/">
 C77新作となる1stシングル【RESONANCE】特設ページオープン．
 全3曲収録，クロスフェード･デモ公開中．
 <em>12/30 東"サ"-09a 「Re:sonare」</em>にて頒布．
@@ -52,6 +52,6 @@ C77新作となる1stシングル【RESONANCE】特設ページオープン．
 
 <a  href="http://soranetarium.com/" target="_blank">- Soranetarium C77参加情報いろいろ掲載</a>
 <a href="http://breathe.halfmoon.jp/twinkle/ft2p/" target="_blank">
-<img src="http://breathe.halfmoon.jp/twinkle/ft2p/banner1.jpg" width="200" height="40" border="0"></a>
+
 twinkle*twinkle×Dropの小屋×Soranetarium【Fairy tale zwei～prologue～】という作品をSoranetariumスペースで頒布されるそうです．
 <em>12/30 東"コ"-37a</em>

@@ -15,10 +15,10 @@ p {white-space: pre-wrap};
 
 冬コミ行ってきました．とりあえず戦利品うｐ．
 
-<img src="http://stfate.net/wp-content/uploads/2009/12/P2009_1231_203607.JPG" alt="" />
-<img src="http://stfate.net/wp-content/uploads/2009/12/P2009_1231_203821.JPG" alt="" />
-<img src="http://stfate.net/wp-content/uploads/2009/12/P2009_1231_204028.JPG" alt="" />
-<img src="http://stfate.net/wp-content/uploads/2009/12/P2009_1231_204212.JPG" alt="" />
-<img src="http://stfate.net/wp-content/uploads/2009/12/P2009_1231_204347.JPG" alt="" />
-<img src="http://stfate.net/wp-content/uploads/2009/12/P2009_1231_204432.JPG" alt="" />
-<img src="http://stfate.net/wp-content/uploads/2009/12/P2009_1231_204511.JPG" alt="" />
+
+
+
+
+
+
+

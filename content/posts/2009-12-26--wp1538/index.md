@@ -25,7 +25,7 @@ C77新作【月夜の道化師よ、狂乱に嗤え。】の告知が。
 曲そのものではなくジャケットの文言が問題になったみたいですね。
 
 <a  href="http://tuutenn.s66.xrea.com/" target="_blank">- Sound skt C77新作【現世ボーダーライン】特設ページオープン</a>
-<a href="http://tuutenn.s66.xrea.com/tu_cd07/main07.htm"><img src="http://tuutenn.s66.xrea.com/tu_cd07/bana480_90.jpg" alt="" /></a>
+<a href="http://tuutenn.s66.xrea.com/tu_cd07/main07.htm">
 C77新作【現世ボーダーライン】情報公開。
 西方Projectアレンジ、全8曲収録。クロスフェード･デモ公開中。
 <em>12/30 東"ヘ"-15b "さかばと"</em>にて頒布。

@@ -22,7 +22,7 @@ studio report動画公開中。
 12.16公開分にJIMANGさんがゲスト出演されるそうです。
 
 <a  href="http://www.human-bbq.com/" target="_blank">- 大麻葉吸 サイト名、HN変更＆C77新作【鉄人ストロンガー】情報公開</a>
-<a href="http://www.human-bbq.com/justiceman.html"><img src="http://www.human-bbq.com/stronger_bb.jpg"></a>
+<a href="http://www.human-bbq.com/justiceman.html">
 HN＆サイト名を"大麻葉吸"に変更＆C77新作【鉄人ストロンガー】告知されています。
 全10曲収録、現在6曲分の試聴公開中。
 <em>12.30 東"ク"-30b Aether & SWORD OF JUSTICE</em>にて頒布予定。

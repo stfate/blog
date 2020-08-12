@@ -53,7 +53,7 @@ C77参加されるそうです。
 DS-10 PLUSまだ買えてないんですが、記事内容にすごく興味があります…
 
 <a  href="http://www.stels806.com/" target="_blank">- STELS806 C77新作【迷宮ヲトメ図鑑】情報公開</a>
-<a href="http://www.stels806.com/"><img src="http://www.stels806.com/stels806/release/bn_big.jpg" alt="" /></a>
+<a href="http://www.stels806.com/">
 C77新作【迷宮ヲトメ図鑑】特設ページオープン。
 全8曲収録のミニ･アルバム。<em>12/30 東"コ"-60a</em>での頒布。
 
@@ -82,7 +82,7 @@ C77新作【骨董店 『Mystique』】詳細情報公開。
 創作童話「青い森の夜」の朗読が公開されています。<a href="http://www.voiceblog.jp/aoimori/">こちらで公開中。</a>
 
 <a  href="http://www.p-pr.info/" target="_blank">- PHOENIX Project C77新作【Arrow Realize】特設ページオープン</a>
-<a href="http://www.p-pr.info/c77/"><img src="http://www.p-pr.info/c77/bn468.png" alt="" /></a>
+<a href="http://www.p-pr.info/c77/">
 Dark PHOENiXのC77新作【Arrow Realize】情報公開。
 ArrowRain / ArrowRevolver / ArrowRevolution三作からの曲+新曲のベスト･アルバム,全10曲収録。
 各トラックの試聴公開中。

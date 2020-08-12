@@ -14,7 +14,7 @@ p {white-space: pre-wrap};
 </style>
 
 <a  href="http://mono-coat.com/1st.html" target="_blank">- monochrome-coat C77新作【Euphorbia】情報公開</a>
-<a href="http://mono-coat.com/1st.html"><img src="http://mono-coat.com/img/1st_bana_500.jpg"></a>
+<a href="http://mono-coat.com/1st.html">
 1stとなる東方アレンジ･アルバム【Euphorbia】情報公開。
 MetalありTranceありTechnoありVocalものありな全10曲収録。試聴公開中。
 頒布スペースは<em>12.30 東"プ"-19b</em>
@@ -30,5 +30,5 @@ MetalありTranceありTechnoありVocalものありな全10曲収録。試聴�
 ニコニコ動画にて初音ミク曲"LINK"full versionが公開されています。
 
 <a  href="http://amorkana.jp/" target="_blank">- Amor Kana 【RE:】試聴追加</a>
-<a href="http://re.amorkana.jp/"><img src="http://re.amorkana.jp/bana2.jpg"></a>
+<a href="http://re.amorkana.jp/">
 #18"Neve Di Vita"の試聴が公開されています。

@@ -17,7 +17,7 @@ p {white-space: pre-wrap};
 C77新作【東方鋼鉄魔】トラックリスト公開されています。
 
 <a  href="http://anraku.nothing.sh/akisora/" target="_blank">- 秋の空 【星影の天の原】試聴追加</a>
-<a href="http://anraku.nothing.sh/akisora/2009amanohara/"><img src="http://anraku.nothing.sh/akisora/2009amanohara/img/bana_s.jpg" alt="" /></a>
+<a href="http://anraku.nothing.sh/akisora/2009amanohara/">
 C77新作【星影の天の原】特設ページに試聴追加。
 #04 "Fallen Heaven" #05 "宵風唄" #07 "光の都" #11"Voile, the Magic Library"
 

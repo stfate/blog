@@ -23,7 +23,7 @@ C77参加作品情報掲載。<a href="http://pm.pizuya.com/pcmm0005/">Pizuya's 
 両作ともとても楽しみであります。
 
 <a  href="http://k-kyoudan.s61.xrea.com/c77/index.html" target="_blank">- 岸田教団 C77新作【LITERAL WORLD LIVE TOUR DVD in AKASAKA BLITZ】特設ページオープン</a>
-<a href="http://k-kyoudan.s61.xrea.com/c77/index.html"><img src="http://k-kyoudan.s61.xrea.com/c77/lwltbanner400x50.jpg" alt="" /></a>
+<a href="http://k-kyoudan.s61.xrea.com/c77/index.html">
 C77新作となるDVD【LITERAL WORLD LIVE TOUR DVD in AKASAKA BLITZ】情報公開．
 タイトルの通りですがLITERAL WORLD LIVE TOUR東京公演の模様を収めたライヴDVD．
 <em>12/30 東"A"-83a 岸田教団</em>にて頒布．
@@ -55,7 +55,7 @@ C77参加情報掲載。
 ご自身のサークル参加はないものの、3作ほど参加されている模様。
 
 <a  href="http://www5.ocn.ne.jp/~rulotami/mugen/index.html" target="_blank">- 流浪の民 C77新作【夢幻放浪記】特設ページオープン</a>
-<a href="http://www5.ocn.ne.jp/~rulotami/mugen/index.html"><img src="http://www5.ocn.ne.jp/~rulotami/mugen/image/mugen-ban01.jpg" alt="" /></a>
+<a href="http://www5.ocn.ne.jp/~rulotami/mugen/index.html">
 C77新作【夢幻放浪記】情報公開。
 全16曲収録のベスト･アルバム、クロスフェード･デモ公開中。
 <em>12/30 東"コ"-33a 流浪の民</em>にて頒布。

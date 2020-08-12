@@ -17,7 +17,7 @@ p {white-space: pre-wrap};
 webラジオ更新。ゲストにJIMANGさんが。
 
 <a  href="http://kurogane-u.s341.xrea.com/krgn0001_sr.html" target="_blank">- 黒鉄館 C77新作【戦国嵐世】特設ページオープン</a>
-<a href="http://kurogane-u.s341.xrea.com/krgn0001_sr.html"><img src="http://kurogane-u.s341.xrea.com/krgn0001_srbn400.jpg"></a>
+<a href="http://kurogane-u.s341.xrea.com/krgn0001_sr.html">
 C77新作【戦国嵐世】情報公開。
 アリスソフトアレンジ、全11曲収録。クロスフェード･デモ公開中です。
 <em>12/30 東"へ"-15b 「さかばと」</em>さんにて委託頒布予定。
@@ -35,13 +35,13 @@ C77新作【戦国嵐世】情報公開。
 <a href="http://www.akibaoo.com/02/commodity_param/t/0/ctc/82000000/shc/0/cmc/2500020109281/backURL/+02+main">あきばお～こく</a>、<a href="http://d-stage.com/shop/detail.php?seq=12372">D-STAGE</a>にて予約開始されています。
 
 <a  href="http://hull.s53.xrea.com/" target="_blank">- VAGUEDGE C77新作【惨劇の血に赫く染まった愛と絶望の黒い死とが紡ぐ最期の物語 -2nd Press-】情報公開</a>
-<a href="http://hull.s53.xrea.com/LGCD-008/"><img src="http://hull.s53.xrea.com/LGCD-008/ICDDbunner_l.jpg" alt="" /></a>
+<a href="http://hull.s53.xrea.com/LGCD-008/">
 C77新作、というか1st再販【<a href="http://hull.s53.xrea.com/LGCD-008/">惨劇の血に赫く染まった愛と絶望の黒い死とが紡ぐ最期の物語 -2nd Press-</a>】特設ページオープン。
 1stを全曲リマスター＆ボーナストラック1曲追加収録したものみたいですね。
 <em>12/30 東"プ"-36a VAGUEDGE</em>にて頒布。
 
 <a  href="http://r-lmina.sakura.ne.jp/" target="_blank">- LC:AZE C77新作【Snowveil】情報公開</a>
-<a href="http://r-lmina.sakura.ne.jp/snowveil.html"><img src="http://www.lcaze.com/images/ex/snowveil_banner468x80.png" alt="" /></a>
+<a href="http://r-lmina.sakura.ne.jp/snowveil.html">
 C77新作シングル【Snowveil】情報公開。
 3曲+off vocalの全6曲収録、各トラック試聴＆クロスフェード･デモ公開中。
 <em>12/30 東"サ"ｰ51a</em>にて頒布。
