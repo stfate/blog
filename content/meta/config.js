@@ -9,12 +9,12 @@ module.exports = {
 
   /* author */
   authorName: "ふぇいと",
-  authorTwitterAccount: "stfate",
+  authorTwitterAccount: "https://twitter.com/stfate",
   authorGithub: "https://github.com/stfate",
   authorStackoverflow: "",
   authorLinkedin: "",
   authorCodeforces: "",
-  authorYoutube: "",
+  authorYoutube: "https://www.youtube.com/channel/UCi1k0UnRRZ5-osOwC4bDJsQ",
 
   /* header text */
   headerTitle: "Celestial Symphony",

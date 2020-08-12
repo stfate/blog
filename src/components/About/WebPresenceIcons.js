@@ -1,6 +1,6 @@
 import React from "react"
 import theme from "../../theme/theme.yaml";
-import { FaGithub, FaStackOverflow, FaLinkedin, FaYoutube } from 'react-icons/fa'
+import { FaGithub, FaTwitter, FaStackOverflow, FaLinkedin, FaYoutube } from 'react-icons/fa'
 import config from "../../../content/meta/config";
 import Codeforces from "../../images/svg-icons/codeforces.svg";
 //import Unsplash from "../../images/svg-icons/unsplash.svg";
@@ -9,10 +9,11 @@ const WebPresenceIcons = () => {
     return (
         <div className="wrapper">
             <div className="icons">
+                <a href={config.authorTwitterAccount} target="_blank"><FaTwitter/></a>
                 <a href={config.authorGithub} target="_blank"><FaGithub/></a>
-                <a href={config.authorStackoverflow} target="_blank"><FaStackOverflow/></a>
-                <a href={config.authorLinkedin} target="_blank"><FaLinkedin/></a>
-                <a href={config.authorCodeforces} target="_blank"><Codeforces/></a>
+                {/* <a href={config.authorStackoverflow} target="_blank"><FaStackOverflow/></a> */}
+                {/* <a href={config.authorLinkedin} target="_blank"><FaLinkedin/></a> */}
+                {/* <a href={config.authorCodeforces} target="_blank"><Codeforces/></a> */}
                 <a href={config.authorYoutube} target="_blank"><FaYoutube/></a>
                 {/* <a href={config.authorUnsplash} target="_blank"><Unsplash/></a> */}
             </div>

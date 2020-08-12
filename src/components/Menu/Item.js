@@ -46,7 +46,7 @@ const Item = props => {
         @from-width desktop {
           .item {
             :global(a) {
-              color: ${theme.text.color.primary};
+              color: ${theme.header.text.color};
               padding: ${theme.space.inset.s};
               transition: all 0s;
               border-radius: ${theme.size.radius.small};
@@ -57,16 +57,18 @@ const Item = props => {
             }
 
             :global(a:hover) {
-              color: ${theme.color.brand.primary};
+              color: ${theme.color.brand.menuHover};
               background: color(white alpha(-60%));
             }
 
             :global(svg) {
               transition: all 0s;
+              fill: ${theme.header.text.color};
+              opacity: 1;
             }
 
             &:hover :global(svg) {
-              fill: ${theme.color.brand.primary};
+              fill: ${theme.color.brand.menuHover};
               opacity: 1;
 
               :global(.hero) & :global(svg) {
@@ -84,7 +86,7 @@ const Item = props => {
             padding: ${theme.space.xs};
 
             & :global(a.inHiddenItem) {
-              color: ${theme.text.color.primary};
+              color: ${theme.header.text.color};
               &:hover {
                 color: ${theme.color.brand.primary};
               }
