@@ -8,7 +8,7 @@ import config from "../../../content/meta/config";
 import Menu from "../Menu";
 
 import avatar from "../../images/jpg/avatar.jpg";
-import bgimage from "../../images/jpg/header.png";
+import bgimage from "../../images/jpg/header.jpg";
 
 class Header extends React.Component {
   state = {
