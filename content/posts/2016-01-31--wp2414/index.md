@@ -4,7 +4,7 @@ path: "/posts/2016-01-31--wp2414"
 date: "2016-01-31 19:30:14"
 cover: "no-image.png"
 author: "stfate"
-tags: ["雑記 &gt; 音楽"]
+tags: ["音源感想", "Q-MHz"]
 ---
 
 <style type="text/css">
