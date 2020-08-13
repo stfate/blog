@@ -13,3 +13,9 @@ p {white-space: pre-wrap};
 -->
 </style>
 
+<re-img
+    src="no-image.png"
+    title="title"
+    href="https://stfate.net"
+    >
+</re-img>
