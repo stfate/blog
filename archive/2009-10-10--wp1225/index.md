@@ -1,0 +1,161 @@
+---
+title: "Link"
+path: "/posts/2009-10-10--wp1225"
+date: "2009-10-10 15:37:36"
+cover: "no-image.png"
+author: "stfate"
+tags: []
+---
+
+<style type="text/css">
+<!--
+p {white-space: pre-wrap};
+-->
+</style>
+
+<em>同人音楽ほか</em>
+<a href="http://shimotsukin.com/" target="_blank">Maple Leaf</a>
+<a href="http://tieleaf.net/" target="_blank">tieLeaf</a>
+<a href="http://eleol.net/" target="_blank">eleoL</a>
+<a href="http://kukui.cc/" target="_blank">kukui</a>
+<a href="http://www.vagrancy.jp/" target="_blank">VAGRANCY</a>
+<a href="http://shikata-akiko.com/" target="_blank">志方あきこ</a>
+<a href="http://sound-horizon.net/" target="_blank">Sound Horizon</a>
+<a href="http://www.soundhorizon.com/" target="_blank">Sound Horizon(事務所)</a>
+<a href="http://www.rekka.jp/" target="_blank">CLOSED/UNDERGROUND</a>
+<a href="http://chata.moo.jp/" target="_blank">茶太屋</a>
+<a href="http://nuerosocietia.com/" target="_blank">NueroSocietia</a>
+<a href="http://www.asriel.jp/m/" target="_blank">Asriel</a>
+<a href="http://www.alieson.net/" target="_blank">Alieson</a>
+<a href="http://hzwaltz.com/" target="_blank">mimei</a>
+<a href="http://www.ether-music.com/" target="_blank">Ether</a>
+<a href="http://www.rokugen.net/" target="_blank">六弦アリス</a>
+<a href="http://www.stels806.com/" target="_blank">STELS806</a>
+<a href="http://red-head.jp/" target="_blank">REDHEAD</a>
+<a href="http://www11.plala.or.jp/whispers/" target="_blank">Whisper Records</a>
+<a href="http://www.soj.razor.jp/" target="_blank">SWORD OF JUSTICE</a>
+<a href="http://www.crowsclaw.info/" target="_blank">CROW'SCLAW</a>
+<a href="http://live.crowsclaw.info/" target="_blank">Frozen Frog Band Blog</a>
+<a href="http://www.kawachi.zaq.ne.jp/demetori/" target="_blank">Demetori</a>
+<a href="http://www.vivix.info/" target="_blank">ViViX</a>
+<a href="http://www.vivix.info/serenade/" target="_blank">Serenade</a>
+<a href="http://www.ssh.ne.jp/" target="_blank">埼玉最終兵器</a>
+<a href="http://www.mintjam.net/" target="_blank">MintJam</a>
+<a href="http://k-kyoudan.s61.xrea.com/" target="_blank">岸田教団</a>
+<a href="http://www.myonmyon.com/" target="_blank">MyonMyon</a>
+<a href="http://members2.jcom.home.ne.jp/pxp/" target="_blank">PXP</a>
+<a href="http://www.pizuya.com/" target="_blank">ぴずやの独房</a>
+<a href="http://tuutenn.s66.xrea.com/" target="_blank">Sound skt</a>
+<a href="http://www.lkjp.net/" target="_blank">Aether</a>
+<a href="http://www.hellionsounds.com/" target="_blank">Hellion Sounds</a>
+<a href="http://www.circle-wave.net/" target="_blank">WAVE</a>
+<a href="http://encounter-p.net/" target="_blank">encounter+</a>
+<a href="http://iztk.boo.jp/" target="_blank">リル･プラクティカ</a>
+<a href="http://ritarita.jp/" target="_blank">RitaLity</a>
+<a href="http://blueberry-yogurt.com/" target="_blank">Blueberry&Yogurt</a>
+<a href="http://eufonius.net/" target="_blank">eufonius</a>
+<a href="http://www.lias-cafe.com/" target="_blank">Lia's Cafe</a>
+<a href="http://www.avenew.jp/" target="_blank">ave;new</a>
+<a href="http://akadress.com/" target="_blank">dRESS-room</a>
+<a href="http://www.littlewing.ne.jp/" target="_blank">Little Wing</a>
+<a href="http://www.girldisease.com/" target="_blank">少女病</a>
+<a href="http://aonokioku.sakura.ne.jp/" target="_blank">蒼の記憶</a>
+<a href="http://aonokioku.sakura.ne.jp/setsugetsu/" target="_blank">雪月</a>
+<a href="http://soranetarium.com/" target="_blank">Soranetarium</a>
+<a href="http://primary-yuiko.com/" target="_blank">Primary</a>
+<a href="http://www.studio-campanella.com/" target="_blank">studioCampanella</a>
+<a href="http://shihoblog.staravid.com/" target="_blank">Turquoise blue</a>
+<a href="http://park17.wakwak.com/~one/promenade/" target="_blank">PROMENADE</a>
+<a href="http://ryouki.net/" target="_blank">@ryouki</a>
+<a href="http://shule-aroon.sakura.ne.jp/" target="_blank">ABSOLUTE CASTAWAY</a>
+<a href="http://www.milktub.com/" target="_blank">milktub</a>
+<a href="http://www.gentleecho.net/" target="_blank">gentle echo</a>
+<a href="http://www.procyon-studio.com/" target="_blank">Our Millennial Fair</a>
+<a href="http://www.mizukinana.jp/" target="_blank">水樹奈々</a>
+<a href="http://www.kirie.net/~appleproject/" target="_blank">APPLE Project</a>
+<a href="http://www.p-pr.info/" target="_blank">PHOENIX Project</a>
+<a href="http://www.voltagenation.com/" target="_blank">Voltage of Imagination</a>
+<a href="http://www.nakaharasuzuka.net/" target="_blank">nakaharasuzuka.net</a>
+<a href="http://hosplug.com/" target="_blank">hosplug</a>
+<a href="http://www.wadai.jp/bog/" target="_blank">Barbarian on the groove</a>
+<a href="http://elements-garden.com/" target="_blank">Elements Garden</a>
+<a href="http://www.zizz-studio.com/" target="_blank">ZIZZ Studio</a>
+<a href="http://www.blasterhead.com/" target="_blank">Blasterhead</a>
+<a href="http://www002.upp.so-net.ne.jp/hiroki-i/" target="_blank">SYNC.ART'S</a>
+<a href="http://www.lindwurm.info/sv/" target="_blank">感傷ベクトル</a>
+
+<em>Metal/Progre</em>
+<a href="http://www.darktranquillity.com/" target="_blank">Dark Tranquillity</a>
+<a href="http://www.darklunacy.com/" target="_blank">Dark Lunacy</a>
+<a href="http://www.eluveitie.ch/" target="_blank">Eluveitie</a>
+<a href="http://www.swallowthesun.net/2007/" target="_blank">Swallow the Sun</a>
+<a href="http://www.hanging-garden.net/" target="_blank">Hanging Garden</a>
+<a href="http://www.funeralband.no/main.php" target="_blank">Funeral</a>
+<a href="http://www.draconian.se/" target="_blank">Draconian</a>
+<a href="http://eternaltears.info/cms/index.php" target="_blank">Eternal Tears of Sorrow</a>
+<a href="http://www.amonamarth.com/" target="_blank">Amon Amarth</a>
+<a href="http://www.disarmoniamundi.com/" target="_blank">Disarmonia Mundi</a>
+<a href="http://www.slowmotionapocalypse.com/en/default.asp" target="_blank">Slowmotion Apocalypse</a>
+<a href="http://www.inflames.com/" target="_blank">In Flames</a>
+<a href="http://www.novembre.co.uk/" target="_blank">Novembre</a>
+<a href="http://www.opeth.com/" target="_blank">Opeth</a>
+<a href="http://www.riverside.art.pl/" target="_blank">Riverside</a>
+<a href="http://japan.megatherion.com/index.html" target="_blank">Therion</a>
+<a href="http://www.amorphis.net/" target="_blank">Amorphis</a>
+<a href="http://www.scarsymmetry.com/" target="_blank">Scar Symmetry</a>
+<a href="http://www.morsprincipiumest.com/" target="_blank">Mors Principium Est</a>
+<a href="http://www.ihsahn.com/" target="_blank">Ihsahn</a>
+<a href="http://www.blind-guardian.com/" target="_blank">Blind Guardian</a>
+<a href="http://www.kamelot.com/" target="_blank">Kamelot</a>
+
+<em>新潟イタイガース</em>
+<a href="http://www.crimson.be/" target="_blank">CRIMSON SKY</a>
+<a href="http://www.b-tide.net/" target="_blank">Transparent Harmony</a>
+<a href="http://b-tide.seesaa.net/" target="_blank">セカイノケシカタ</a>
+<a href="http://mfmusic.s58.xrea.com/" target="_blank">My Favorite Music</a>
+<a href="http://www.chocobox.jp/" target="_blank">CHOCOBOX</a>
+<a href="http://ameblo.jp/ric3/" target="_blank">ヲタク社会人のおちょめちょめ</a>
+<a href="http://f45.aaa.livedoor.jp/~dread/" target="_blank">SHOT SHELL(仮)</a>
+<a href="http://www.minalabo.net/" target="_blank">水瀬産業</a>
+<a href="http://blog.livedoor.jp/rade_jam12/" target="_blank">- CrossOverArea -</a>
+<a href="http://cho-tekitou.blogspot.com/" target="_blank">超適当なブログ</a>
+
+<em>お世話になっております</em>
+<a href="http://moge.cute.bz/" target="_blank">キノコ狩り農園</a>
+<a href="http://blog.goo.ne.jp/mokichi-8020" target="_blank">どーじんおんがく紹介所</a>
+<a href="http://www.dojin-music.info/" target="_blank">同人音楽.info</a>
+<a href="http://fragrantolive.tumblr.com/" target="_blank">てのりくじら観測所（仮）</a>
+<a href="http://rl36481.blog.shinobi.jp/" target="_blank">retro lyric //,</a>
+<a href="http://static-site.sakura.ne.jp/" target="_blank">Static Site</a>
+<a href="http://tokihari.whitesnow.jp/" target="_blank">春待月夢草子</a>
+<a href="http://genesis.fc2web.com/" target="_blank">AFTER GENESiS</a>
+<a href="http://www.ahoge.com/" target="_blank">同人音楽にゅ～す</a>
+<a href="http://tomemonews.sakura.ne.jp/mt/" target="_blank">Tom's音系wareGuide＠MTVer</a>
+<a href="http://www.r-freak.net/" target="_blank">R-Freak's</a>
+<a href="http://last-quarter.net/" target="_blank">Last-Quarter.net</a>
+<a href="http://www12.ocn.ne.jp/~wende666/" target="_blank">恒星的愛ve情報局</a>
+<a href="http://www.noctilucence.cc/" target="_blank">Noctilucence</a>
+<a href="http://bakuretsusan.blog77.fc2.com/" target="_blank">91B☆Stay hungry, Stay foolish!</a>
+<a href="http://tohoguitar.blog51.fc2.com/" target="_blank">東方阿漕臭（Forest306）</a>
+<a href="http://snowyflower.seesaa.net/" target="_blank">snow flower</a>
+
+<em>テキストサイト</em>
+<a href="http://eternalwinter.blog45.fc2.com/" target="_blank">Eternal Winter</a>
+<a href="http://firstron.jp/" target="_blank">FiRSTRoN</a>
+<a href="http://tsukiusa.s69.xrea.com/" target="_blank">H･L･V</a>
+<a href="http://www.h5.dion.ne.jp/~jade/" target="_blank">jadeの小部屋</a>
+<a href="http://k29diary.blog29.fc2.com/" target="_blank">K-DIARY</a>
+<a href="http://nov.pya.jp/" target="_blank">nov.pya!</a>
+<a href="http://www.eonet.ne.jp/~little-trip/" target="_blank">little trip</a>
+<a href="http://blog68.fc2.com/mebiuswind/" target="_blank">Erdbeere</a>
+<a href="http://www.snow-flake.jp/" target="_blank">Snow Flake</a>
+<a href="http://www13.ocn.ne.jp/~miz/" target="_blank">St.Aquarius</a>
+<a href="http://so-nanoka.com/" target="_blank">SaggySpot</a>
+<a href="http://take-it-easy.net/" target="_blank">Take it easy!!</a>
+<a href="http://wordofwind.jugem.jp/" target="_blank">Word Of Wind</a>
+<a href="http://pengin.jugem.cc/" target="_blank">乙部ず日記</a>
+<a href="http://ponyapepe.sakura.ne.jp/" target="_blank">ポにゃペぺ堂</a>
+<a href="http://www7.plala.or.jp/akibeya/home.html" target="_blank">ソラネ堂</a>
+<a href="http://les-amoureuses.net/" target="_blank">れ･ざむる～ず</a>
+<a href="http://lily17uc.exblog.jp/" target="_blank">YUCIE-NET</a>
+<a href="http://binboutan.blog.shinobi.jp/" target="_blank">貧乏譚</a>
