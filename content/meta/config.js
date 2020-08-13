@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: "Celestial Symphony", // <title>
   shortSiteTitle: "Celestial Symphony", // <title> ending for posts and pages
-  siteDescription: "hogehoge",
+  siteDescription: "声優アーティストやHR/HMの音源&ライヴ感想メイン",
   siteUrl: "https://stfate.net",
   // pathPrefix: "",
   siteImage: "preview.jpg",
