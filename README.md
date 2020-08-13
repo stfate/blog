@@ -91,7 +91,7 @@ this.items = [
 
 ## サイトへのデプロイ
 
-`git pull`する．
+`git push`する．
 
 
 # 記事投稿
