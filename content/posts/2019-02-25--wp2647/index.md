@@ -4,7 +4,7 @@ path: "/posts/2019-02-25--wp2647"
 date: "2019-02-25 23:34:44"
 cover: "cover.png"
 author: "stfate"
-tags: ["cd感想","music"]
+tags: ["音源感想","music"]
 ---
 
 <style type="text/css">

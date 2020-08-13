@@ -4,7 +4,7 @@ path: "/posts/2017-04-10--wp2419"
 date: "2017-04-10 21:00:42"
 cover: "cover.jpg"
 author: "stfate"
-tags: ["cd感想","水瀬いのり"]
+tags: ["音源感想","水瀬いのり"]
 ---
 
 <style type="text/css">

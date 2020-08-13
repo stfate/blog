@@ -4,7 +4,7 @@ path: "/posts/2020-03-23--wp2765"
 date: "2020-03-23 22:56:55"
 cover: "cover.jpg"
 author: "stfate"
-tags: ["cd感想","music","上田麗奈"]
+tags: ["音源感想","music","上田麗奈"]
 ---
 
 <style type="text/css">

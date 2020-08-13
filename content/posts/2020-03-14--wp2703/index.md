@@ -4,7 +4,7 @@ path: "/posts/2020-03-14--wp2703"
 date: "2020-03-14 13:07:52"
 cover: "cover.png"
 author: "stfate"
-tags: ["cd感想","music"]
+tags: ["音源感想","music"]
 ---
 
 <style type="text/css">
