@@ -2,7 +2,7 @@
 title: "WordpressからGatsby+Netlifyに転生した話"
 path: "/posts/2020-08-13--wordpress-to-gatsby"
 date: "2020-08-13"
-cover: "Gatsby_Logo_s.png"
+cover: "Gatsby_Logo.png"
 author: "stfate"
 tags: ["tech", "web技術", "gatsby"]
 ---
