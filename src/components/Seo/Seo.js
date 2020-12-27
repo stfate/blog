@@ -13,7 +13,8 @@ const Seo = props => {
 
   const title = postTitle;
   const description = postDescription ? postDescription : config.siteDescription;
-  const image = postCover ? postCover : config.siteImage;
+  // const image = postCover ? postCover : config.siteImage;
+  const image = "https://images-fe.ssl-images-amazon.com/images/I/41Ti0Vr2GbL.jpg";
   const url = config.siteUrl + config.pathPrefix + postSlug;
 
   return (
@@ -33,12 +34,12 @@ const Seo = props => {
       <meta property="og:description" content={description} />
       <meta property="og:image" content={image} />
       <meta property="og:type" content="website" />
-      <meta name="twitter:card" content="summary_large_image" />
+      {/* <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@stfate" />
       <meta name="twitter:creator" content="@stfate" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
-      <meta name="twitter:image" content={image} />
+      <meta name="twitter:image" content={image} /> */}
     </Helmet>
   );
 };
