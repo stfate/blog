@@ -14,7 +14,7 @@ const Seo = props => {
   const title = postTitle;
   const description = postDescription ? postDescription : config.siteDescription;
   // const image = postCover ? postCover : config.siteImage;
-  const image = "https://images-fe.ssl-images-amazon.com/images/I/41Ti0Vr2GbL.jpg";
+  const image = "http://tyrfing.site/assets/" + postSlug + config.pathPrefix + "twitter_card.jpg";
   const url = config.siteUrl + config.pathPrefix + postSlug;
 
   return (
