@@ -50,6 +50,7 @@ module.exports = {
     }
   },
   plugins: [
+    `gatsby-plugin-twitter`,
     `gatsby-plugin-styled-jsx`, // the plugin's code is inserted directly to gatsby-node.js and gatsby-ssr.js files
     `gatsby-plugin-styled-jsx-postcss`, // as above
     {
@@ -124,6 +125,13 @@ module.exports = {
             }
           },
 
+          {
+            resolve: `gatsby-remark-embed-youtube`,
+            options: {
+              width: 720,
+              height: 405
+            }
+          },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
