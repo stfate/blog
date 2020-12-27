@@ -4,6 +4,7 @@ path: "/posts/2020-03-23--wp2765"
 date: "2020-03-23 22:56:55"
 cover: "cover.jpg"
 author: "stfate"
+description: "上田麗奈 1st full Album「Empathy」感想。"
 tags: ["音源感想","music","上田麗奈"]
 ---
 

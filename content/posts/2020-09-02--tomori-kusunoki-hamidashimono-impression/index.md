@@ -4,6 +4,7 @@ path: "/posts/2020-09-02-tomori-kusunoki-hamidashimono-impression"
 date: "2020-09-02"
 cover: "cover.png"
 author: "stfate"
+description: "楠木ともり 1stEP「ハミダシモノ」の感想記事"
 tags: [Music, 音源感想, 楠木ともり, 重永亮介]
 ---
 
