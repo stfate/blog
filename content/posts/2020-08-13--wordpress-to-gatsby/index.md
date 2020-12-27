@@ -2,7 +2,7 @@
 title: "WordpressからGatsby+Netlifyに転生した話"
 path: "/posts/2020-08-13--wordpress-to-gatsby"
 date: "2020-08-13"
-cover: "Gatsby_Logo.png"
+cover: "cover.png"
 author: "stfate"
 tags: ["tech", "web技術", "gatsby"]
 ---
@@ -14,7 +14,7 @@ p {white-space: pre-wrap};
 </style>
 
 <re-img
-    src="Gatsby_Logo.png"
+    src="cover.png"
     title="Gatsby.js"
     href="https://www.gatsbyjs.com"
     >
