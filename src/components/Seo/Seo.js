@@ -11,7 +11,7 @@ const Seo = props => {
   const postCover = ((data || {}).frontmatter || {}).cover;
   const postSlug = ((data || {}).fields || {}).slug;
 
-  const title = config.shortSiteTitle + " - " + (postTitle || pageTitle)
+  const title = postTitle;
   const description = postDescription ? postDescription : config.siteDescription;
   const image = postCover ? postCover : config.siteImage;
   const url = config.siteUrl + config.pathPrefix + postSlug;
@@ -33,7 +33,7 @@ const Seo = props => {
       <meta property="og:image" content={image} />
       <meta property="og:type" content="website" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:site" content={url} />
+      <meta name="twitter:site" content="@stfate" />
       <meta name="twitter:creator" content="@stfate" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
