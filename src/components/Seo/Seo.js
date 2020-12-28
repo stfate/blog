@@ -31,8 +31,8 @@ const Seo = props => {
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@stfate" />
       <meta name="twitter:creator" content="@stfate" />
-      <meta name="twitter:description" content="{description}" />
-      <meta name="twitter:image" content="{image}" />
+      <meta name="twitter:description" content={description} />
+      <meta name="twitter:image" content={image} />
       {/* OpenGraph tags */}
       <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
