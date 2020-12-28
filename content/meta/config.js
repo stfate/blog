@@ -34,4 +34,8 @@ module.exports = {
   // Example https://www.gravatar.com/avatar/g.strainovic@gmail.com ->
   // gravatarImgMd5: "https://www.gravatar.com/avatar/1db853e4df386e8f699e4b35505dd8c6",
   gravatarImgMd5: "",
+
+  // image storage
+  imageStorageSite: "http://tyrfing.site/assets/twitter_cards/",
+  twitterCardFileName: "/twitter_card.png",
 };
