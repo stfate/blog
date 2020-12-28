@@ -97,3 +97,8 @@ this.items = [
 # 記事投稿
 
 `content/posts`に`yyyy-mm-dd--title`のディレクトリを追加し，その下に`index.md`を追加する．
+
+- 記事カバー: `cover.png`で指定 (700x314)
+- Twitter card用画像: `twitter_card.png`で指定 (600x314)
+    - `cp_twitter_cards.py`で`static/twitter_cards`にコピー&`tyrfing.site`上にupload
+    - Twitter card表示時は`tyrfing.site`上のファイルを参照する

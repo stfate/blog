@@ -11,7 +11,7 @@ const Seo = props => {
   const postCover = ((data || {}).frontmatter || {}).cover;
   const postSlug = ((data || {}).fields || {}).slug;
 
-  const title = postTitle;
+  const title = postTitle ? postTitle : config.siteTitle;
   const description = postDescription ? postDescription : config.siteDescription;
   // const image = postCover ? postCover : config.siteImage;
   const image = "http://tyrfing.site/assets/twitter_cards/" + postSlug + "/twitter_card.png";
@@ -29,6 +29,10 @@ const Seo = props => {
       <meta name="description" content={description} />
       <meta name="image" content={image} />
       <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@stfate" />
+      <meta name="twitter:creator" content="@stfate" />
+      <meta name="twitter:description" content="{description}" />
+      <meta name="twitter:image" content="{image}" />
       {/* OpenGraph tags */}
       <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
