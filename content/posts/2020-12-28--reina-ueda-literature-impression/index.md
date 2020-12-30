@@ -45,7 +45,7 @@ p {white-space: pre-wrap};
 ではいきましょう。
 
 
-# 歌詞
+## 歌詞
 
 曲単体で聴いても成立するけど、魔女旅本編のシーンを思い起こさせるフレーズがたくさん散りばめられていて、**魔女旅のオタクはよりニヤニヤできる歌詞になっている**のがマジで良い。
 RIRIKOさんてんさいこんさい。
@@ -108,7 +108,7 @@ BパートEDのリテラチュアが流れるところで、このフレーズ�
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ブログを更新しました。<br><br>「リテラチュア」の&quot;作詞&quot;について書かせていただいております。<br><br>好きだから、選ぶ。<br>⇒ <a href="https://t.co/tjpH1MFmV3">https://t.co/tjpH1MFmV3</a> <a href="https://twitter.com/hashtag/%E3%82%A2%E3%83%A1%E3%83%96%E3%83%AD?src=hash&amp;ref_src=twsrc%5Etfw">#アメブロ</a> <a href="https://twitter.com/ameba_official?ref_src=twsrc%5Etfw">@ameba_official</a>より <a href="https://twitter.com/hashtag/%E9%AD%94%E5%A5%B3%E3%81%AE%E6%97%85%E3%80%85%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E?src=hash&amp;ref_src=twsrc%5Etfw">#魔女の旅々はいいぞ</a> <a href="https://twitter.com/hashtag/%E9%AD%94%E5%A5%B3%E3%81%AE%E6%97%85%E3%80%85?src=hash&amp;ref_src=twsrc%5Etfw">#魔女の旅々</a> <a href="https://twitter.com/hashtag/%E3%83%AA%E3%83%86%E3%83%A9%E3%83%81%E3%83%A5%E3%82%A2?src=hash&amp;ref_src=twsrc%5Etfw">#リテラチュア</a> <a href="https://twitter.com/hashtag/%E4%B8%8A%E7%94%B0%E9%BA%97%E5%A5%88?src=hash&amp;ref_src=twsrc%5Etfw">#上田麗奈</a></p>&mdash; RIRIKO (@RIRIPERO) <a href="https://twitter.com/RIRIPERO/status/1339935368120999936?ref_src=twsrc%5Etfw">December 18, 2020</a></blockquote><br/>
 
 
-# 歌の表現
+## 歌の表現
 
 1番と2番で歌の感情表現を意図的にスイッチしてるのがとても良い。
 上田麗奈さんは(ソロ名義で)歌うとき、「生の感情を伝えることを重視する」ために
@@ -124,7 +124,7 @@ BパートEDのリテラチュアが流れるところで、このフレーズ�
 「**…ううん、どちらも**」と「**主人公になれていますか？**」のピッチの揺れ具合と抑揚からイレイナさんの不安とか葛藤をダイレクトに感じられる気がして、とても素敵な表現。
 
 
-# 音色(楽器編成)
+## 音色(楽器編成)
 
 いわゆる「アニメのOPらしい」キラキラ感を抑えて、シンプルな編成になっていますが、
 それが「イレイナさんの内面」へフォーカスするのに一役買っている気がします。
@@ -138,7 +138,7 @@ Aメロは「街の風景」、Bメロは「街を少し出たところの街道
 ピアノとストリングスの音色が「世界の美しさ」を表しているように思えてとても好きです。
 
 
-# 曲構成
+## 曲構成
 
 曲構成もシンプルな**A→B→サビ→A→B→サビ→C→ラスサビ**ですが、曲の進行とともに「時間の流れ」を感じられるのが旅をしている気持ちになれてとても良い。
 1番は昼間、2番は夕方、Cメロ&ラスサビ手前で夜→夜明けに変わってまた新しい1日が訪れるという。
@@ -151,7 +151,7 @@ Aメロは「街の風景」、Bメロは「街を少し出たところの街道
 やはりRIRIKOさんは「**ポップスの曲構成を逸脱せずにエモい展開を仕込む**」のが非常に上手い……
 
 
-# リズム&テンポ
+## リズム&テンポ
 
 リテラチュアのBPMは**118**です。
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">『リテラチュア』のテンポはBPM118<br><br>この曲に合わせて歩いていると本当に<br>&quot;少し遠くまで&quot;行ける気がします。<br><br>皆さんはリテラチュアをどこへ連れて行ってくれるのかな。<br><br>本当に素敵な作品に関わることができて光栄です！ありがとうございました！<a href="https://twitter.com/hashtag/%E9%AD%94%E5%A5%B3%E3%81%AE%E6%97%85%E3%80%85%E3%81%AF%E3%81%84%E3%81%84%E3%81%9E?src=hash&amp;ref_src=twsrc%5Etfw">#魔女の旅々はいいぞ</a> <a href="https://twitter.com/hashtag/%E4%B8%8A%E7%94%B0%E9%BA%97%E5%A5%88?src=hash&amp;ref_src=twsrc%5Etfw">#上田麗奈</a> さん<a href="https://twitter.com/hashtag/%E3%83%AA%E3%83%86%E3%83%A9%E3%83%81%E3%83%A5%E3%82%A2?src=hash&amp;ref_src=twsrc%5Etfw">#リテラチュア</a> <a href="https://t.co/9tQQCHx7DQ">https://t.co/9tQQCHx7DQ</a></p>&mdash; RIRIKO (@RIRIPERO) <a href="https://twitter.com/RIRIPERO/status/1339940201297190918?ref_src=twsrc%5Etfw">December 18, 2020</a></blockquote><br/>
