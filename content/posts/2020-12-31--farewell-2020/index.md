@@ -56,7 +56,7 @@ Empathyについて語りたいことは下記記事に全て込めたつもり�
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">(🌟)デビューーーー！！！👏🎉<br>また一つ夢が叶いました！<br>携わってくださった皆様、そして私の音楽を愛してくれるすべての方に感謝を。<br>本当にありがとうございます！！<br>私幸せーーーーー！<a href="https://twitter.com/hashtag/%E3%83%8F%E3%83%9F%E3%83%80%E3%82%B7%E3%83%A2%E3%83%8E?src=hash&amp;ref_src=twsrc%5Etfw">#ハミダシモノ</a>　<a href="https://twitter.com/hashtag/%E3%82%B7%E3%82%A2%E3%83%AF%E3%82%BB%E3%83%A2%E3%83%8E?src=hash&amp;ref_src=twsrc%5Etfw">#シアワセモノ</a></p>&mdash; 楠木ともり 公式info (@tomori_kusunoki) <a href="https://twitter.com/tomori_kusunoki/status/1295737213502726144?ref_src=twsrc%5Etfw">August 18, 2020</a></blockquote>
 
 楠木ともりさんのメジャーデビューも大きなニュース。
-個人的にも最もアーティストデビューを期待していた人なので、その期待に「ハミダシモノ」というすごくいい曲で応えてくれたのが本当に嬉しかった。
+個人的にも最もメジャーデビューを期待していた人なので、その期待に「ハミダシモノ」というすごくいい曲で応えてくれたのが本当に嬉しかった。
 デビューEPの感想は下記記事をご覧ください。
 
 - [楠木ともり - "ハミダシモノ"感想](https://stfate.net/tomori-kusunoki-hamidashimono-impression/)
@@ -113,14 +113,12 @@ Wちゃんとウィーディちゃん昇進2できたので7章を進めてい�
 やはりMookie Bettsの存在はメチャクチャ大きかったですね。
 バッティングも走塁も素晴らしいが、特に守備のインパクト。流れを作れる守備。
 NLCSにて、3試合連続ビッグプレーでBravesの勢いを止めたのは本当に凄かった。
-
 `youtube:https://www.youtube.com/embed/yOx5UZIWjqI`
 
 1勝3敗から3連勝でワールドシリーズ進出を決められたのは間違いなくBettsがいたから。
 あとはClayton Kershawが今年はポストシーズンでもエースの働きができたのも大きかった。
 今まで絶対的エースとして君臨してきながらも、ポストシーズンでは力を発揮できないと言われ続けてきたKershaw。
 今ポストシーズンは絶好調で、チームに勝ちをもたらす投球がしっかりできていて頼もしかった。
-
 `youtube:https://www.youtube.com/embed/f2lWEBvCBZI`
 
 この8年連続地区優勝の間もポストシーズン敗退の責任を負い続けてきたのを知っているので、
@@ -129,6 +127,10 @@ NLCSにて、3試合連続ビッグプレーでBravesの勢いを止めたのは
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dodgers Nation! Tune in to the <a href="https://twitter.com/DICKS?ref_src=twsrc%5Etfw">@DICKS</a> Facebook page this Sunday at 4:30pm PST to listen in on a conversation about our championship season. Check it out! <a href="https://twitter.com/hashtag/WorldSeriesChamps?src=hash&amp;ref_src=twsrc%5Etfw">#WorldSeriesChamps</a> <a href="https://twitter.com/hashtag/CityofChampions?src=hash&amp;ref_src=twsrc%5Etfw">#CityofChampions</a> <a href="https://t.co/DAVf4eDl01">pic.twitter.com/DAVf4eDl01</a></p>&mdash; Clayton Kershaw (@ClaytonKersh22) <a href="https://twitter.com/ClaytonKersh22/status/1324808245052088321?ref_src=twsrc%5Etfw">November 6, 2020</a></blockquote> 
 
 良かったなぁKershaw。
+
+優勝後のセレモニーも感激したなぁ。この瞬間が観たかったんだ。
+Dave Robertsの「This is our year!!!」は名フレーズにして名演説だと思う。
+`youtube:https://www.youtube.com/embed/5QNjBNRHeC0`
 
 短縮シーズンではあったけど、Bravesも調子良かったし今年のMLBは個人的にはメチャクチャ楽しかったです。
 DodgersとBravesという贔屓2球団の対決になったNLCSも大接戦でメチャクチャ面白かったし。
@@ -157,3 +159,6 @@ DodgersとBravesという贔屓2球団の対決になったNLCSも大接戦で�
 来年以降、状況が改善しても行くライヴは(かつてのように)厳選しようかなと考えています。
 「これは生で体感したい！」というものと「配信でも良い体験が得られる」ものをしっかり考えて、切るべきところで現地カードを切るようにしたいですね。
 そういう意味でも、今年は「**自分にとって本当に大事なものを見つめ直す**」年だったかもしれない。
+
+激変の年であった今年を乗り越えて、来年は「これだよ！」という年にしていきたいですね。
+それでは、よいお年を。
