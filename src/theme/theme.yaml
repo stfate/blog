@@ -143,12 +143,12 @@ hero:
   h1:
     size: *font-size-xxl
     color: *color-white
-    lineHeight: *font-line-height-xs
+    lineHeight: *font-line-height-l
   background: 'linear-gradient(0deg, #E0306E, #6438B5)'
 blog:
   h1:
-    size: *font-size-l
-    lineHeight: *font-line-height-xs
+    size: *font-size-xl
+    lineHeight: *font-line-height-l
     hoverColor: *color-gray-10
 header:
   text:
