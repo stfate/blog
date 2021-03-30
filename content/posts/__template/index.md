@@ -1,7 +1,7 @@
 ---
 title: "title"
-path: "/posts/2020-xx-xx--title"
-date: "2020-xx-xx"
+path: "/posts/2021-xx-xx--title"
+date: "2021-xx-xx"
 cover: "no-image.png"
 author: "stfate"
 description: ""
