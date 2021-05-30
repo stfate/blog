@@ -1,10 +1,10 @@
 ---
-title: "楠木ともり「Forced Shutdown」インプレッション"
+title: "楠木ともり『Forced Shutdown』インプレッション ～ バラエティ豊かな「音のおもちゃ箱」。"
 path: "/posts/2021-05-30--tomori-kusunoki-forced-shutdown-impression"
 date: "2021-05-30"
 cover: "cover.png"
 author: "stfate"
-description: "楠木ともり「Forced Shutdown」インプレッション"
+description: "楠木ともり『Forced Shutdown』インプレッション"
 tags: [Music, 音源感想, 楠木ともり, Rock]
 ---
 
