@@ -65,7 +65,7 @@ Post-BlackやBlackgaze的なノリのアルバムとアンビエントにかな�
 特にT01“**All is Lost**”はImsomniumやSentenced的なMelancholic Metalな作風になっており今までなかった芸風。
 灰色の荒野感あるリフが性癖に刺さりすぎるのもあって永遠に聴いていたくなる佳曲。
 とりあえず聴いてくれ。
-`youtube:https://www.youtube.com/embed/JJs7sTNnqVw`
+<iframe src="https://open.spotify.com/embed/track/4BwhTHj5eAkgKG4zCHdCVR" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 シンフォブラック的なT2“**Autumn & Everley**”、
 朴訥なクリーンVo.が印象的なアンビエント・トラックT3“**Reverie**”、
