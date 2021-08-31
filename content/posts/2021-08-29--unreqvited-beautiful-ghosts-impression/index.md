@@ -5,7 +5,7 @@ date: "2021-08-29"
 cover: "cover.png"
 author: "stfate"
 description: ""
-tags: [Metal, Post-Black, Atmospheric Black, Blackgaze, Ambient, Unreqvited]
+tags: [Music, 音源感想, Metal, Post-Black, Atmospheric Black, Blackgaze, Ambient, Unreqvited]
 ---
 
 <style type="text/css">
