@@ -1,5 +1,5 @@
 ---
-title: "上田麗奈『Nebula』と楠木ともり『sketchbook』に見る「声優×アンビエント」の可能性。"
+title: "上田麗奈『Nebula』と楠木ともり『sketchbook』に視る「声優×アンビエント」の可能性。"
 path: "/posts/2021-08-31--seiyu-meets-ambient-on-reina-and-tomori"
 date: "2021-08-31"
 cover: "cover.png"
