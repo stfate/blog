@@ -14,7 +14,7 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <DefaultLayout>
-        <SEO title={post.frontmatter.title} description={post.excerpt} />
+      <SEO title={post.frontmatter.title} description={post.excerpt} image={post.frontmatter.img.childImageSharp.gatsbyImageData.src} />
         <div className="clearfix post-content-box">
           <article className="article-page">
             <div className="page-content">
