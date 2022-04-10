@@ -10,4 +10,4 @@ if [ $# -ne 1 ]; then
 fi
 
 cd content/posts
-cp -r __template $1
+cp -r __template content/blog/$1

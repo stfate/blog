@@ -1,104 +1,53 @@
-celestial-symphony-gatsby
-=========================
+<h1 align="center">
+  Flexible Gatsby
+</h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0a6e226-6c7a-43e0-bab6-0c658c8abca5/deploy-status)](https://app.netlify.com/sites/flexible-gatsby/deploys)
 
-# Overview
+A simple minimalist Gatsby starter for your blog. [Demo](https://flexible-gatsby.netlify.com/).
 
-webサイト[Celestial Symphony](https://stfate.net)のGatsby+Netlifyによる実装．  
-[こちらのテーマ](https://github.com/baobabKoodaa/blog)をベースにしている．
+Inspired by [flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll).
 
+![home-page-screenshot](./static/promo-img.jpg)
 
-# Install log
+![home-page-screenshot](./static/home-page.jpg)
 
-## Prerequisites
+![blog-page-screenshot](./static/post-example.jpg)
 
-- npm/node
-- [gatsby-cli](https://www.gatsbyjs.com/docs/gatsby-cli/)
+## Quick Start 🚀
 
+1.  **Create a Gatsby site.**
 
-## Wordpressからの記事データ移行
+    Use the Gatsby CLI to create a new site, specifying the default starter.
 
-[wordpress-article-extractor](https://github.com/stfate/wordpress-article-extractor)を用いる．  
-抽出した記事データを`content/posts`に配置する．
+    ```sh
+    # create a new Gatsby site using the-plain-gatsby starter
+    gatsby new my-blog https://github.com/wangonya/flexible-gatsby
+    ```
 
+2.  **Start developing.**
 
-## プロジェクト作成
+    Navigate into your new site’s directory and start it up.
 
-```bash
-gatsby new celestial-symphony-gatsby https://github.com/baobabKoodaa/blog
-```
+    ```sh
+    cd my-blog/
+    gatsby develop
+    ```
 
+3.  **Open the source code and start editing!**
 
-## カスタマイズ
+    Your site is now running at `http://localhost:8000`!
 
-- 事前にAlgoliaのアカウントを作成しておく ([ここ参照](https://dev.greglobinski.com/setup-algolia-account/))
-- `.env`に以下の環境変数を設定
-    - POSTS_FOLDER=posts
-    - ALGOLIA_APP_ID={ALGOLIAのAPP_ID}
-    - ALGOLIA_SEARCH_ONLY_API_KEY={ALGOLIAのSEARCH_ONLY_API_KEY}
-    - ALGOLIA_ADMIN_API_KEY={ALGOLIAのADMIN_API_KEY}
-    - ALGOLIA_INDEX_NAME=CONTENT
-- `gatsby-config.js`にstyled-components&algoliaの設定を追加
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-```bash
-{
-  resolve: "gatsby-plugin-styled-components",
-  options: {
+    Edit `gatsby.config.js` to update site metadata.
 
-  }
-},
-{
-  resolve: `gatsby-plugin-algolia`,
-  options: {
-    appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
-    apiKey: process.env.ALGOLIA_ADMIN_API_KEY ? process.env.ALGOLIA_ADMIN_API_KEY : "",
-    indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "",
-    queries,
-    chunkSize: 10000 // default: 1000
-  }
-},
-```
+    Add blog posts in markdown in `content/blog`. Example blog posts have been provided.
 
-- `content/meta/config.js`のauthor情報を編集
-- `src/theme/theme.yaml`のcoloring設定を好みに応じて編集
-- Headerのレイアウト変更する場合は`src/components/Header/Header.js`を編集
-- `src/components/Menu/Menu.js`にてHeaderに表示するメニュー項目を編集
+## Contributors
 
-```javascript
-this.items = [
-  { to: "/", label: "Home", icon: FaHome },
-  { to: "/tags/", label: "Tags", icon: FaTag },
-  { to: "/search/", label: "Search", icon: FaSearch },
-  // { to: "/follow/", label: "Follow", icon: FaRss },
-  // { to: "/contact/", label: "Contact", icon: FaEnvelope },
-  { to: "/about/", label: "About", icon: FaUser }
-];
-```
+Much thanks to these contributors for making this project awesome:
 
-- 各メニューのフォントカラーなどを調整する場合は`src/components/Menu/Item.js`のCSSを編集する
-- 各種画像差し替え
-    - サイトアイコン：`src/images/app-icons/icon.png`
-    - アバター(左上のサイト名横部に表示される画像): `src/images/jpg/avatar.jpg`
-    - ヘッダー背景画像: `src/images/jpg/header.jpg`
-- アイコン画像生成: `scripts/generate-app-icons.sh`
-
-
-## ビルド
-
-- develop: `gatsby develop`
-- production: `gatsby build`
-
-
-## サイトへのデプロイ
-
-`git push`する．
-
-
-# 記事投稿
-
-`content/posts`に`yyyy-mm-dd--title`のディレクトリを追加し，その下に`index.md`を追加する．
-
-- 記事カバー: `cover.png`で指定 (700x314)
-- Twitter card用画像: `twitter_card.png`で指定 (600x314)
-    - `cp_twitter_cards.py`で`static/twitter_cards`にコピー&`tyrfing.site`上にupload
-    - Twitter card表示時は`tyrfing.site`上のファイルを参照する
+-   [@scottelundgren](https://github.com/scottelundgren)
+-   [@sparky005](https://github.com/sparky005)
+-   [@wozniaklukasz](https://github.com/wozniaklukasz)

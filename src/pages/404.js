@@ -1,20 +1,21 @@
-import PropTypes from "prop-types";
-import React from "react";
-import theme from "../theme/theme.yaml";
-import Article from "../components/Article";
-import Headline from "../components/Article/Headline";
-import { graphql } from 'gatsby'
+import React from 'react'
 
-const NotFoundPage = props => {
+import DefaultLayout from '../components/layout'
+import SEO from '../components/seo'
 
-  return (
-    <Article theme={theme}>
-      <header>
-        <Headline title="404" theme={theme} />
-      </header>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-    </Article>
-  );
-};
+class NotFoundPage extends React.Component {
+  render() {
+    const { data } = this.props
 
-export default NotFoundPage;
+    return (
+      <DefaultLayout>
+        <SEO title="404: Not Found" />
+        <div className="content-box clearfix">
+          <h1>That page doesn&#39;t exist.</h1>
+        </div>
+      </DefaultLayout>
+    )
+  }
+}
+
+export default NotFoundPage
