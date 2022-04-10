@@ -11,10 +11,11 @@ import 'katex/dist/katex.min.css'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
+    const twitterCardImageUrl = "http://tyrfing.site/assets/twitter_cards" + post.frontmatter.slug + "twitter_card.png";
 
     return (
       <DefaultLayout>
-      <SEO title={post.frontmatter.title} description={post.excerpt} image={post.frontmatter.img.childImageSharp.gatsbyImageData.src} />
+      <SEO title={post.frontmatter.title} description={post.excerpt} image={twitterCardImageUrl} />
         <div className="clearfix post-content-box">
           <article className="article-page">
             <div className="page-content">
