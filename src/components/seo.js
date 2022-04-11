@@ -36,16 +36,8 @@ function SEO({ description, lang, meta, title, image }) {
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
-          name: `description`,
-          content: metaDescription,
-        },
-        {
           property: `og:title`,
           content: title,
-        },
-        {
-          property: `og:description`,
-          content: metaDescription,
         },
         {
           property: `og:image`,
@@ -54,10 +46,6 @@ function SEO({ description, lang, meta, title, image }) {
         {
           property: `og:type`,
           content: `website`,
-        },
-        {
-          property: `image`,
-          content: image
         },
         {
           name: `twitter:card`,
@@ -78,6 +66,18 @@ function SEO({ description, lang, meta, title, image }) {
         {
           name: `twitter:image`,
           content: image
+        },
+        {
+          property: `image`,
+          content: image
+        },
+        {
+          name: `description`,
+          content: metaDescription,
+        },
+        {
+          property: `og:description`,
+          content: metaDescription,
         },
       ].concat(meta)}
     />
