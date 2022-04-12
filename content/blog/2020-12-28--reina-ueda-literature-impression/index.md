@@ -12,12 +12,6 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-`<re-img
-    src="cover.png"
-    title="上田麗奈 / リテラチュア"
-    href="https://www.lantis.jp/reinaueda/"
-    >`
-`</re-img>`
 
 **※魔女の旅々 原作5巻くらいまでのネタバレを含みます**
 **※あくまでも個人の感想です**

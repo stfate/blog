@@ -13,13 +13,6 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-`<re-img
-    src="cover.png"
-    title="楠木ともり / Forced Shutdown"
-    href="https://www.kusunokitomori.com/"
-    >`
-`</re-img>`
-
 <table>
     <thead>
         <tr>

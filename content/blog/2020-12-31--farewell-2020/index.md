@@ -13,12 +13,6 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-`<re-img
-    src="cover.png"
-    title="title"
-    href="https://stfate.net"
-    >`
-`</re-img>`
 
 さて、早いものでもう大晦日ですね。
 COVID-19パンデミックを経て3月からほぼフル在宅勤務で季節感を実感しない生活をしていたのもあり、

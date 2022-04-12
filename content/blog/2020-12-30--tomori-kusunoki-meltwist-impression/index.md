@@ -13,12 +13,6 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-`<re-img
-    src="cover.png"
-    title="Tomori Kusunoki"
-    href="https://www.kusunokitomori.com/"
-    >`
-`</re-img>`
 
 <table>
     <thead>

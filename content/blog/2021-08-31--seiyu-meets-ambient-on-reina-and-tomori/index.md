@@ -20,13 +20,6 @@ th,tr,td {line-height: 1.0em !important;}
 -->
 </style>
 
-`<re-img
-    src="cover.png"
-    title="title"
-    href="https://www.lantis.jp/reinaueda/"
-    >`
-`</re-img>`
-
 ## この記事 is 何
 
 上田麗奈さん『Nebula』と楠木ともりさん『sketchbook』を聴いたオタクが

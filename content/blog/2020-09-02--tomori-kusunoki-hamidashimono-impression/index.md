@@ -13,12 +13,6 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-`<re-img
-    src="hamidashimono_A.jpg"
-    title="楠木ともり / ハミダシモノ"
-    href="https://www.kusunokitomori.com/"
-    >`
-`</re-img>`
 
 <table>
     <thead>

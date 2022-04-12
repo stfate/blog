@@ -7,18 +7,12 @@ author: "stfate"
 description: ""
 tags: [Music, 上田麗奈, Imagination Colors, live, ライブ感想, 声優アーティスト]
 ---
+
 <style type="text/css">
 <!--
 p {white-space: pre-wrap};
 -->
 </style>
-
-`<re-img
-    src="cover.png"
-    title="上田麗奈"
-    href="https://www.lantis.jp/reinaueda/"
-    >`
-`</re-img>`
 
 ライヴで体感する“感情の歌”は、やはり凄かった。
 

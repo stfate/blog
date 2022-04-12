@@ -7,18 +7,13 @@ author: "stfate"
 description: ""
 tags: [column, live, オンラインライブ, 雑記]
 ---
+
 <style type="text/css">
 <!--
 p {white-space: pre-wrap};
 -->
 </style>
 
-`<re-img
-    src="cover.png"
-    title="title"
-    href="https://stfate.net"
-    >`
-`</re-img>`
 
 あけましておめでとうございます。
 2020年はいろいろと"変化の年"だったと思いますが、今年は良い方向に向かっていけばいいですね。

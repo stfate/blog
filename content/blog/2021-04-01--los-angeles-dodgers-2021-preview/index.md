@@ -13,13 +13,6 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-`<re-img
-    src="cover.png"
-    title="Los Angeles Dodgers"
-    href="https://www.mlb.com/dodgers"
-    >`
-`</re-img>`
-
 MLB2021シーズンプレビュー、Los Angeles Dodgers編です。
 ※下記に記載している各種指標は
 

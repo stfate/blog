@@ -12,12 +12,6 @@ p {white-space: pre-wrap};
 -->
 </style>
 
-`<re-img
-    src="cover.png"
-    title="Gatsby.js"
-    href="https://www.gatsbyjs.com"
-    >`
-`</re-img>`
 
 当ブログは長らくWordpressで構築してきましたが，時代も令和になりWeb周りの情勢も大きく変わった中で不満点もいろいろ出てきていました．
 具体的には，
