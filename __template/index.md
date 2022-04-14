@@ -2,7 +2,7 @@
 title: "title"
 path: "/posts/2021-xx-xx--title"
 date: "2021-xx-xx"
-cover: "no-image.png"
+img: "no-image.png"
 author: "stfate"
 description: ""
 tags: []
@@ -51,9 +51,8 @@ th,tr,td {line-height: 1.0em !important;}
     </div>
 </section>
 
-<re-img
-    src="no-image.png"
-    title="title"
-    href="https://stfate.net"
-    >
-</re-img>
+<figure id="cover">
+    <a `href="stfate.net"`>
+        <img src="no-image.png" title="title"></img>
+    </a>
+</figure>
