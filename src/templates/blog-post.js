@@ -12,10 +12,6 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const twitterCardImageUrl = "http://tyrfing.site/assets/twitter_cards" + post.fields.slug + "twitter_card.png";
-    // const twitterCardImageUrl = "http://tyrfing.site/assets/twitter_cards/atlanta-braves-2021-preview/twitter_card.png";
-
-    console.log(post.fields.slug);
-    console.log(twitterCardImageUrl);
 
     return (
       <DefaultLayout>

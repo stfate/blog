@@ -2,7 +2,6 @@
 title: "[ASMR感想] kotoneiro - おしごとねいろ～パティシエール編～ (CV:前田佳織里)"
 path: "/posts/2022-04-14--kotoneiro-patissier-kaorin"
 date: "2022-04-14 00:00:00 +0300"
-cover: "cover.png"
 img: "cover.png"
 author: "stfate"
 description: kotoneiro - おしごとねいろ～パティシエール編～ (CV:前田佳織里)感想
