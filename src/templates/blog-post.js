@@ -11,7 +11,7 @@ import 'katex/dist/katex.min.css'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    const twitterCardImageUrl = "https://storage.cloud.google.com/stfate-images/twitter_cards" + post.fields.slug + "twitter_card.png";
+    const twitterCardImageUrl = "https://storage.googleapis.com/stfate-images/twitter_cards" + post.fields.slug + "twitter_card.png";
 
     return (
       <DefaultLayout>
