@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/c-79/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/2011-01-01--wp2217/"},"frontmatter":{"title":"[diary] あけましておめでとうございます&C79戦果報告","date":"January 01, 2011"}}},{"node":{"fields":{"slug":"/2010-12-26--wp2216/"},"frontmatter":{"title":"[Diary] C79応援リンクなど．","date":"December 26, 2010"}}}]}},"pageContext":{"tag":"c79"}},
+    "staticQueryHashes": ["2478211480"]}

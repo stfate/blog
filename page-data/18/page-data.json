@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-list-js",
+    "path": "/18",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Celestial Symphony"}},"allMarkdownRemark":{"edges":[{"node":{"excerpt":"01.青く、果てなく\n久しぶりのSHIHOさん曲というだけで感激にむせび泣きそうになりますが(ぉ\nタイトル通り果てなく広がる青空を思い起こさせる名曲ですな。\nイントロのピアノからの展開といいスケールの大きさも感じさせますね。\n歌詞は門司さんらしく色々と考えさせられる詞です。\n0…","fields":{"slug":"/2004-04-05--wp0008/"},"timeToRead":2,"frontmatter":{"date":"2004, Apr 05","title":"Spotlight Kid - \"01\"","img":null}}},{"node":{"excerpt":"01.砂浜は光のフラワー\nスティールギター全開の爽やかな曲ですな。\n河辺総帥らしい曲。\n02.Precious flap\n【feel so good!】にもリミックスVerが収録されてましたな。\n【朱】、【グリーングリーン】と並ぶNANAさんの名曲。\n0…","fields":{"slug":"/2004-01-05--wp0007/"},"timeToRead":2,"frontmatter":{"date":"2004, Jan 05","title":"feel - \"flower-feel vocal showcase:001-\"","img":null}}}]}},"pageContext":{"limit":10,"skip":170,"numPages":18,"currentPage":18}},
+    "staticQueryHashes": ["2478211480","63159454"]}

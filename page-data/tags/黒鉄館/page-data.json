@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/黒鉄館/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2010-01-09--wp1619/"},"frontmatter":{"title":"[review] 黒鉄館 - \"戦国嵐世\"","date":"January 09, 2010"}}}]}},"pageContext":{"tag":"黒鉄館"}},
+    "staticQueryHashes": ["2478211480"]}

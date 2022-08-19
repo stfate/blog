@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/ぴずや/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2009-10-25--wp1319/"},"frontmatter":{"title":"[review] Pizuya's Cell x MyonMyon - \"Nuclear Blast\"","date":"October 25, 2009"}}}]}},"pageContext":{"tag":"ぴずや"}},
+    "staticQueryHashes": ["2478211480"]}

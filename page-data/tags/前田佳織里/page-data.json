@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/前田佳織里/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/2022-04-14--kotoneiro-patissier/"},"frontmatter":{"title":"[ASMR感想] kotoneiro - おしごとねいろ～パティシエール編～ (CV:前田佳織里)","date":"April 13, 2022"}}},{"node":{"fields":{"slug":"/2021-12-28--seiyu-asmr-awards-2021/"},"frontmatter":{"title":"(女性)声優ASMRで振り返る2021年","date":"December 28, 2021"}}}]}},"pageContext":{"tag":"前田佳織里"}},
+    "staticQueryHashes": ["2478211480"]}

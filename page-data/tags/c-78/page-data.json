@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/c-78/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/2010-08-15--wp2191/"},"frontmatter":{"title":"[diary] C78 2日目お疲れ様でした．","date":"August 15, 2010"}}},{"node":{"fields":{"slug":"/2010-08-13--wp2189/"},"frontmatter":{"title":"[diary] C78リスト","date":"August 13, 2010"}}}]}},"pageContext":{"tag":"c78"}},
+    "staticQueryHashes": ["2478211480"]}

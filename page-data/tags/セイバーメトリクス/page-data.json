@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/セイバーメトリクス/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/2021-04-01--los-angeles-dodgers-2021-preview/"},"frontmatter":{"title":"MLB2021シーズンプレビュー - Los Angeles Dodgers編","date":"April 01, 2021"}}},{"node":{"fields":{"slug":"/2021-03-30--atlanta-braves-2021-preview/"},"frontmatter":{"title":"MLB2021シーズンプレビュー - Atlanta Braves編","date":"March 30, 2021"}}}]}},"pageContext":{"tag":"セイバーメトリクス"}},
+    "staticQueryHashes": ["2478211480"]}

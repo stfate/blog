@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/touch-trax/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2011-01-13--wp2225/"},"frontmatter":{"title":"[music] touch trax ８年ぶりの復活！","date":"January 13, 2011"}}}]}},"pageContext":{"tag":"touch trax"}},
+    "staticQueryHashes": ["2478211480"]}

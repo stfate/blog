@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/column/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2021-01-03--online-live-column/"},"frontmatter":{"title":"2021年のスタートに、改めて「オンラインライブ」を考える。","date":"January 03, 2020"}}}]}},"pageContext":{"tag":"column"}},
+    "staticQueryHashes": ["2478211480"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/dodgers/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2021-04-01--los-angeles-dodgers-2021-preview/"},"frontmatter":{"title":"MLB2021シーズンプレビュー - Los Angeles Dodgers編","date":"April 01, 2021"}}}]}},"pageContext":{"tag":"Dodgers"}},
+    "staticQueryHashes": ["2478211480"]}

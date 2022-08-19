@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/web技術/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2020-08-13--wordpress-to-gatsby/"},"frontmatter":{"title":"WordpressからGatsby+Netlifyに転生した話","date":"August 13, 2020"}}}]}},"pageContext":{"tag":"web技術"}},
+    "staticQueryHashes": ["2478211480"]}

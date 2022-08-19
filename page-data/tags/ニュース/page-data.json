@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/ニュース/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":6,"edges":[{"node":{"fields":{"slug":"/2012-04-06--wp2263/"},"frontmatter":{"title":"[news] ShadeさんM3新作試聴","date":"April 06, 2012"}}},{"node":{"fields":{"slug":"/2012-04-06--wp2262/"},"frontmatter":{"title":"[news] GATE TO THE UNKNOWN 2012","date":"April 06, 2012"}}},{"node":{"fields":{"slug":"/2011-08-19--wp2241/"},"frontmatter":{"title":"最近行ったライヴ","date":"August 19, 2011"}}},{"node":{"fields":{"slug":"/2011-04-23--wp2230/"},"frontmatter":{"title":"[news] touch trax新作頒布価格&委託情報","date":"April 23, 2011"}}},{"node":{"fields":{"slug":"/2011-01-13--wp2225/"},"frontmatter":{"title":"[music] touch trax ８年ぶりの復活！","date":"January 13, 2011"}}},{"node":{"fields":{"slug":"/2010-11-03--wp2213/"},"frontmatter":{"title":"[diary] 零の軌跡サントラ発売日決定","date":"November 03, 2010"}}}]}},"pageContext":{"tag":"ニュース"}},
+    "staticQueryHashes": ["2478211480"]}

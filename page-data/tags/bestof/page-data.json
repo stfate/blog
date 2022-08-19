@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/bestof/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/2019-12-30--wp2671/"},"frontmatter":{"title":"[Music] ベストアルバム2019","date":"December 30, 2019"}}},{"node":{"fields":{"slug":"/2018-12-28--wp2531/"},"frontmatter":{"title":"[Music] ベストアルバム2018","date":"December 28, 2018"}}}]}},"pageContext":{"tag":"bestof"}},
+    "staticQueryHashes": ["2478211480"]}

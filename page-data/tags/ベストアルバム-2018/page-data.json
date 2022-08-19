@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/ベストアルバム-2018/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2018-12-28--wp2531/"},"frontmatter":{"title":"[Music] ベストアルバム2018","date":"December 28, 2018"}}}]}},"pageContext":{"tag":"#ベストアルバム2018"}},
+    "staticQueryHashes": ["2478211480"]}

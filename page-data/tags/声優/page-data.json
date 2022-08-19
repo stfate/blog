@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/声優/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/2021-12-28--seiyu-asmr-awards-2021/"},"frontmatter":{"title":"(女性)声優ASMRで振り返る2021年","date":"December 28, 2021"}}},{"node":{"fields":{"slug":"/2021-08-31--seiyu-meets-ambient-on-reina-and-tomori/"},"frontmatter":{"title":"上田麗奈『Nebula』と楠木ともり『sketchbook』に視る「声優×アンビエント」の可能性。","date":"August 31, 2021"}}}]}},"pageContext":{"tag":"声優"}},
+    "staticQueryHashes": ["2478211480"]}

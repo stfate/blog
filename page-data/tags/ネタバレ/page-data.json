@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/ネタバレ/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2011-11-10--wp2242/"},"frontmatter":{"title":"[Game] 碧の軌跡 感想(ネタバレあり)","date":"November 10, 2011"}}}]}},"pageContext":{"tag":"ネタバレ"}},
+    "staticQueryHashes": ["2478211480"]}

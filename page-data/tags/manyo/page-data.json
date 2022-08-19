@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/manyo/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2015-12-31--wp2410/"},"frontmatter":{"title":"[ライヴ感想] Innocent Grey 10th anniversary concert 「神曲」","date":"December 31, 2015"}}}]}},"pageContext":{"tag":"manyo"}},
+    "staticQueryHashes": ["2478211480"]}

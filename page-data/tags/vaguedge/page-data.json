@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/vaguedge/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2011-01-17--wp2226/"},"frontmatter":{"title":"[CD感想] Vaguedge Dies For Dies Irae  - \"Clamantes Monimentum Mortis\"","date":"January 17, 2011"}}}]}},"pageContext":{"tag":"vaguedge"}},
+    "staticQueryHashes": ["2478211480"]}

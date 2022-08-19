@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/atmospheric-black/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2021-08-29--unreqvited-beautiful-ghosts-impression/"},"frontmatter":{"title":"Unreqvited 『Beautiful Ghosts』インプレッション","date":"August 29, 2021"}}}]}},"pageContext":{"tag":"Atmospheric Black"}},
+    "staticQueryHashes": ["2478211480"]}

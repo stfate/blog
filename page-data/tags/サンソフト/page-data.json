@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/サンソフト/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2014-06-11--wp2347/"},"frontmatter":{"title":"[Concert] 名古屋ゲームミュージックアンサンブル 第2回演奏会 (2014.06.08)","date":"June 11, 2014"}}}]}},"pageContext":{"tag":"サンソフト"}},
+    "staticQueryHashes": ["2478211480"]}

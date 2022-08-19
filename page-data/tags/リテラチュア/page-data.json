@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/リテラチュア/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2020-12-28--reina-ueda-literature-impression/"},"frontmatter":{"title":"魔女の旅々オタクの視点で読み解くリテラチュア/上田麗奈","date":"December 28, 2020"}}}]}},"pageContext":{"tag":"リテラチュア"}},
+    "staticQueryHashes": ["2478211480"]}

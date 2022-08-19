@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/四月バカ/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/2012-04-01--wp2260/"},"frontmatter":{"title":"[News?] 4/1ですね","date":"April 01, 2012"}}},{"node":{"fields":{"slug":"/2011-04-01--wp2228/"},"frontmatter":{"title":"[daily?] 新年度のお祭","date":"April 01, 2011"}}}]}},"pageContext":{"tag":"四月バカ"}},
+    "staticQueryHashes": ["2478211480"]}

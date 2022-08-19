@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/kotoneiro/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2022-04-14--kotoneiro-patissier/"},"frontmatter":{"title":"[ASMR感想] kotoneiro - おしごとねいろ～パティシエール編～ (CV:前田佳織里)","date":"April 13, 2022"}}}]}},"pageContext":{"tag":"kotoneiro"}},
+    "staticQueryHashes": ["2478211480"]}

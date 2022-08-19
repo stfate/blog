@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/imagination-colors/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2021-03-23--reina-ueda-imagination-colors-impression/"},"frontmatter":{"title":"上田麗奈 1st LIVE 「Imagination Colors」感想 ～ 「感情の歌」で紡ぐ、「想像」と「創造」の物語。","date":"March 23, 2021"}}}]}},"pageContext":{"tag":"Imagination Colors"}},
+    "staticQueryHashes": ["2478211480"]}

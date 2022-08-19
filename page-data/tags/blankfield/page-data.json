@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/blankfield/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2010-01-17--wp1656/"},"frontmatter":{"title":"[review] BLANKFIELD - \"Fast Forward To End Of East\"","date":"January 17, 2010"}}}]}},"pageContext":{"tag":"blankfield"}},
+    "staticQueryHashes": ["2478211480"]}

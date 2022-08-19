@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/pure-pollution/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2010-01-24--wp1686/"},"frontmatter":{"title":"[review] PURE-POLLUTION - \"Sleepless Night\"","date":"January 24, 2010"}}}]}},"pageContext":{"tag":"pure-pollution"}},
+    "staticQueryHashes": ["2478211480"]}

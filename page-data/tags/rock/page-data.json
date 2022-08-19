@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/rock/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2021-05-30--tomori-kusunoki-forced-shutdown-impression/"},"frontmatter":{"title":"楠木ともり『Forced Shutdown』インプレッション ～ バラエティ豊かな「音のおもちゃ箱」。","date":"May 30, 2021"}}}]}},"pageContext":{"tag":"Rock"}},
+    "staticQueryHashes": ["2478211480"]}
