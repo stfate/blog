@@ -12,6 +12,7 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const twitterCardImageUrl = "https://storage.googleapis.com/stfate-images/twitter_cards" + post.fields.slug + "twitter_card.png";
+    console.log(twitterCardImageUrl);
 
     return (
       <DefaultLayout>
