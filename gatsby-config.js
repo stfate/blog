@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/blog`,
+  // pathPrefix: `/blog`,
   siteMetadata: {
     title: `Celestial Symphony`,
     description: `音楽/MLB/ASMRなどの感想を垂れ流します．`,
